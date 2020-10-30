@@ -1,32 +1,48 @@
 from ebaysdk.trading import Connection
 import config
-print(config.description)
 if __name__ == '__main__':
-    api = Connection(config_file="ebay.yaml", domain="api.sandbox.ebay.com", debug=True)
+    api = Connection(config_file="../Desktop/untitled folder/ebay.yaml", domain="api.sandbox.ebay.com", debug=True)
     request = {
         "Item": {
-            "Title": config.title,
             "Country": "US",
             "Site": "US",
-            "ConditionID": "7000",
+            "Title": config.title,
+            "PrimaryCategory": {"CategoryID": config.categoryID},
+            "ConditionID": config.conditionID[config.condition],
+            "ConditionDescription": config.condition_description,
+
+            "PictureDetails": {
+                "PictureURL": config.selectedPicture,
+            },
+
+            "Description": "description test",
+            "ListingDuration": "Days_10",
             "PaymentMethods": "PayPal",
             "PayPalEmailAddress": "colin.daniels@nandor.net",
-            "PrimaryCategory": {"CategoryID": "33963"},
-            "Description": config.description,
-            "ListingDuration": "Days_10",
-            "StartPrice": "785",
+            "StartPrice": config.start_price,
+            "AutoPay": True,
             "Currency": "USD",
+            "PostalCode": "60093",
+
+            "ReturnPolicy": {
+                "InternationalReturnsAcceptedOption": "ReturnsNotAccepted",
+                "ReturnsAcceptedOption": "ReturnsNotAccepted"
+            },
 
             "ShippingDetails": {
+                "CalculatedShippingRate": {
+                    "OriginatingPostalCode": "60093",
+                    "PackagingHandlingCosts": 0.00
+                },
                 "ShippingServiceOptions": {
-                    "FreeShipping": "",
-                    "ShippingService": ""
+                    "FreeShipping": False,
+                    "ShippingService": "USPSMedia"
                 }
             },
             "DispatchTimeMax": "1"
         }
     }
 
-    api.execute("AddItem", request)
+    api.execute("AddFixedPriceItem", request)
 
 
