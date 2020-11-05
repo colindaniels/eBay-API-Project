@@ -7,12 +7,12 @@ if __name__ == '__main__':
             "Country": "US",
             "Site": "US",
             "Title": config.title,
-            "PrimaryCategory": {"CategoryID": config.categoryID},
-            "ConditionID": config.conditionID[config.condition],
+            "PrimaryCategory": {"CategoryID": config.category_ID},
+            "ConditionID": config.condition_ID[config.condition],
             "ConditionDescription": config.condition_description,
 
             "PictureDetails": {
-                "PictureURL": config.selectedPicture,
+                "PictureURL": config.pictures,
             },
 
             "Description": "description test",
@@ -36,7 +36,7 @@ if __name__ == '__main__':
                 },
                 "ShippingServiceOptions": {
                     "FreeShipping": False,
-                    "ShippingService": "USPSMedia"
+                    "ShippingService": ""
                 }
             },
             "DispatchTimeMax": "1"
