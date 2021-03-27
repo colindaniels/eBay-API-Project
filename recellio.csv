@@ -1,0 +1,127 @@
+model,storage,carrier,condition,price
+Apple iPhone 6,16,Unlocked,good,20.00
+Apple iPhone 6,16,Unlocked,fair,10.00
+Apple iPhone 6,16,Unlocked,broken,0.00
+Apple iPhone 6,16,Verizon,good,20.00
+Apple iPhone 6,16,Verizon,fair,10.00
+Apple iPhone 6,16,Verizon,broken,0.00
+Apple iPhone 6,16,ATT,good,20.00
+Apple iPhone 6,16,ATT,fair,10.00
+Apple iPhone 6,16,ATT,broken,0.00
+Apple iPhone 6,16,T-Mobile,good,20.00
+Apple iPhone 6,16,T-Mobile,fair,10.00
+Apple iPhone 6,16,T-Mobile,broken,0.00
+Apple iPhone 6,16,Sprint,good,22.00
+Apple iPhone 6,16,Sprint,fair,10.00
+Apple iPhone 6,16,Sprint,broken,0.00
+Apple iPhone 6,16,Other,good,0.00
+Apple iPhone 6,16,Other,fair,0.00
+Apple iPhone 6,16,Other,broken,0.00
+Apple iPhone 6,32,Unlocked,good,25.00
+Apple iPhone 6,32,Unlocked,fair,10.00
+Apple iPhone 6,32,Unlocked,broken,0.00
+Apple iPhone 6,32,Verizon,good,25.00
+Apple iPhone 6,32,Verizon,fair,10.00
+Apple iPhone 6,32,Verizon,broken,0.00
+Apple iPhone 6,32,ATT,good,25.00
+Apple iPhone 6,32,ATT,fair,10.00
+Apple iPhone 6,32,ATT,broken,0.00
+Apple iPhone 6,32,T-Mobile,good,20.00
+Apple iPhone 6,32,T-Mobile,fair,10.00
+Apple iPhone 6,32,T-Mobile,broken,0.00
+Apple iPhone 6,32,Sprint,good,30.00
+Apple iPhone 6,32,Sprint,fair,10.00
+Apple iPhone 6,32,Sprint,broken,0.00
+Apple iPhone 6,32,Other,good,0.00
+Apple iPhone 6,32,Other,fair,0.00
+Apple iPhone 6,32,Other,broken,0.00
+Apple iPhone 6,64,Unlocked,good,30.00
+Apple iPhone 6,64,Unlocked,fair,15.00
+Apple iPhone 6,64,Unlocked,broken,0.00
+Apple iPhone 6,64,Verizon,good,30.00
+Apple iPhone 6,64,Verizon,fair,15.00
+Apple iPhone 6,64,Verizon,broken,0.00
+Apple iPhone 6,64,ATT,good,31.00
+Apple iPhone 6,64,ATT,fair,10.00
+Apple iPhone 6,64,ATT,broken,0.00
+Apple iPhone 6,64,T-Mobile,good,25.00
+Apple iPhone 6,64,T-Mobile,fair,10.00
+Apple iPhone 6,64,T-Mobile,broken,0.00
+Apple iPhone 6,64,Sprint,good,33.00
+Apple iPhone 6,64,Sprint,fair,10.00
+Apple iPhone 6,64,Sprint,broken,0.00
+Apple iPhone 6,64,Other,good,0.00
+Apple iPhone 6,64,Other,fair,0.00
+Apple iPhone 6,64,Other,broken,0.00
+Apple iPhone 6,128,Unlocked,good,35.00
+Apple iPhone 6,128,Unlocked,fair,15.00
+Apple iPhone 6,128,Unlocked,broken,0.00
+Apple iPhone 6,128,Verizon,good,35.00
+Apple iPhone 6,128,Verizon,fair,15.00
+Apple iPhone 6,128,Verizon,broken,0.00
+Apple iPhone 6,128,ATT,good,32.00
+Apple iPhone 6,128,ATT,fair,10.00
+Apple iPhone 6,128,ATT,broken,0.00
+Apple iPhone 6,128,T-Mobile,good,30.00
+Apple iPhone 6,128,T-Mobile,fair,10.00
+Apple iPhone 6,128,T-Mobile,broken,0.00
+Apple iPhone 6,128,Sprint,good,30.00
+Apple iPhone 6,128,Sprint,fair,10.00
+Apple iPhone 6,128,Sprint,broken,0.00
+Apple iPhone 6,128,Other,good,0.00
+Apple iPhone 6,128,Other,fair,0.00
+Apple iPhone 6,128,Other,broken,0.00
+Apple iPhone 6 Plus,16,Unlocked,good,60.00
+Apple iPhone 6 Plus,16,Unlocked,fair,40.00
+Apple iPhone 6 Plus,16,Unlocked,broken,5.00
+Apple iPhone 6 Plus,16,Verizon,good,60.00
+Apple iPhone 6 Plus,16,Verizon,fair,40.00
+Apple iPhone 6 Plus,16,Verizon,broken,5.00
+Apple iPhone 6 Plus,16,ATT,good,60.00
+Apple iPhone 6 Plus,16,ATT,fair,40.00
+Apple iPhone 6 Plus,16,ATT,broken,5.00
+Apple iPhone 6 Plus,16,T-Mobile,good,55.00
+Apple iPhone 6 Plus,16,T-Mobile,fair,35.00
+Apple iPhone 6 Plus,16,T-Mobile,broken,5.00
+Apple iPhone 6 Plus,16,Sprint,good,60.00
+Apple iPhone 6 Plus,16,Sprint,fair,30.00
+Apple iPhone 6 Plus,16,Sprint,broken,5.00
+Apple iPhone 6 Plus,16,Other,good,0.00
+Apple iPhone 6 Plus,16,Other,fair,0.00
+Apple iPhone 6 Plus,16,Other,broken,0.00
+Apple iPhone 6 Plus,64,Unlocked,good,65.00
+Apple iPhone 6 Plus,64,Unlocked,fair,45.00
+Apple iPhone 6 Plus,64,Unlocked,broken,5.00
+Apple iPhone 6 Plus,64,Verizon,good,65.00
+Apple iPhone 6 Plus,64,Verizon,fair,50.00
+Apple iPhone 6 Plus,64,Verizon,broken,5.00
+Apple iPhone 6 Plus,64,ATT,good,65.00
+Apple iPhone 6 Plus,64,ATT,fair,45.00
+Apple iPhone 6 Plus,64,ATT,broken,5.00
+Apple iPhone 6 Plus,64,T-Mobile,good,60.00
+Apple iPhone 6 Plus,64,T-Mobile,fair,40.00
+Apple iPhone 6 Plus,64,T-Mobile,broken,5.00
+Apple iPhone 6 Plus,64,Sprint,good,72.00
+Apple iPhone 6 Plus,64,Sprint,fair,35.00
+Apple iPhone 6 Plus,64,Sprint,broken,5.00
+Apple iPhone 6 Plus,64,Other,good,0.00
+Apple iPhone 6 Plus,64,Other,fair,0.00
+Apple iPhone 6 Plus,64,Other,broken,0.00
+Apple iPhone 6 Plus,128,Unlocked,good,70.00
+Apple iPhone 6 Plus,128,Unlocked,fair,50.00
+Apple iPhone 6 Plus,128,Unlocked,broken,5.00
+Apple iPhone 6 Plus,128,Verizon,good,70.00
+Apple iPhone 6 Plus,128,Verizon,fair,55.00
+Apple iPhone 6 Plus,128,Verizon,broken,5.00
+Apple iPhone 6 Plus,128,ATT,good,70.00
+Apple iPhone 6 Plus,128,ATT,fair,50.00
+Apple iPhone 6 Plus,128,ATT,broken,5.00
+Apple iPhone 6 Plus,128,T-Mobile,good,65.00
+Apple iPhone 6 Plus,128,T-Mobile,fair,45.00
+Apple iPhone 6 Plus,128,T-Mobile,broken,5.00
+Apple iPhone 6 Plus,128,Sprint,good,82.00
+Apple iPhone 6 Plus,128,Sprint,fair,40.00
+Apple iPhone 6 Plus,128,Sprint,broken,5.00
+Apple iPhone 6 Plus,128,Other,good,0.00
+Apple iPhone 6 Plus,128,Other,fair,0.00
+Apple iPhone 6 Plus,128,Other,broken,0.00

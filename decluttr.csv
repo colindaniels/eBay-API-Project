@@ -1,0 +1,1117 @@
+model,storage,carrier,condition,price
+Apple iPhone 6,16gb,unlocked,good,9.0
+Apple iPhone 6,16gb,unlocked,poor,5.4
+Apple iPhone 6,16gb,unlocked,faulty,5
+Apple iPhone 6,16gb,verizon,good,9.0
+Apple iPhone 6,16gb,verizon,poor,5.4
+Apple iPhone 6,16gb,verizon,faulty,5
+Apple iPhone 6,16gb,AT&T,good,7.62
+Apple iPhone 6,16gb,AT&T,poor,5
+Apple iPhone 6,16gb,AT&T,faulty,5
+Apple iPhone 6,16gb,T-Mobile,good,6.96
+Apple iPhone 6,16gb,T-Mobile,poor,5
+Apple iPhone 6,16gb,T-Mobile,faulty,5
+Apple iPhone 6,16gb,sprint,good,6.42
+Apple iPhone 6,16gb,sprint,poor,5
+Apple iPhone 6,16gb,sprint,faulty,5
+Apple iPhone 6,16gb,other,good,5
+Apple iPhone 6,16gb,other,poor,5
+Apple iPhone 6,16gb,other,faulty,5
+Apple iPhone 6,32gb,unlocked,good,9.0
+Apple iPhone 6,32gb,unlocked,poor,5.4
+Apple iPhone 6,32gb,unlocked,faulty,5
+Apple iPhone 6,32gb,verizon,good,9.0
+Apple iPhone 6,32gb,verizon,poor,5.4
+Apple iPhone 6,32gb,verizon,faulty,5
+Apple iPhone 6,32gb,AT&T,good,7.62
+Apple iPhone 6,32gb,AT&T,poor,4.57
+Apple iPhone 6,32gb,AT&T,faulty,5
+Apple iPhone 6,32gb,T-Mobile,good,6.96
+Apple iPhone 6,32gb,T-Mobile,poor,5
+Apple iPhone 6,32gb,T-Mobile,faulty,5
+Apple iPhone 6,32gb,sprint,good,6.42
+Apple iPhone 6,32gb,sprint,poor,5
+Apple iPhone 6,32gb,sprint,faulty,5
+Apple iPhone 6,32gb,other,good,5
+Apple iPhone 6,32gb,other,poor,5
+Apple iPhone 6,32gb,other,faulty,5
+Apple iPhone 6,64gb,unlocked,good,9.0
+Apple iPhone 6,64gb,unlocked,poor,5.4
+Apple iPhone 6,64gb,unlocked,faulty,5
+Apple iPhone 6,64gb,verizon,good,9.0
+Apple iPhone 6,64gb,verizon,poor,5.4
+Apple iPhone 6,64gb,verizon,faulty,5
+Apple iPhone 6,64gb,AT&T,good,7.62
+Apple iPhone 6,64gb,AT&T,poor,5
+Apple iPhone 6,64gb,AT&T,faulty,5
+Apple iPhone 6,64gb,T-Mobile,good,6.96
+Apple iPhone 6,64gb,T-Mobile,poor,5
+Apple iPhone 6,64gb,T-Mobile,faulty,5
+Apple iPhone 6,64gb,sprint,good,6.42
+Apple iPhone 6,64gb,sprint,poor,5
+Apple iPhone 6,64gb,sprint,faulty,5
+Apple iPhone 6,64gb,other,good,5
+Apple iPhone 6,64gb,other,poor,5
+Apple iPhone 6,64gb,other,faulty,5
+Apple iPhone 6,128gb,unlocked,good,9.0
+Apple iPhone 6,128gb,unlocked,poor,5.4
+Apple iPhone 6,128gb,unlocked,faulty,5
+Apple iPhone 6,128gb,verizon,good,9.0
+Apple iPhone 6,128gb,verizon,poor,5.4
+Apple iPhone 6,128gb,verizon,faulty,5
+Apple iPhone 6,128gb,AT&T,good,7.62
+Apple iPhone 6,128gb,AT&T,poor,5
+Apple iPhone 6,128gb,AT&T,faulty,5
+Apple iPhone 6,128gb,T-Mobile,good,6.96
+Apple iPhone 6,128gb,T-Mobile,poor,5
+Apple iPhone 6,128gb,T-Mobile,faulty,5
+Apple iPhone 6,128gb,sprint,good,6.42
+Apple iPhone 6,128gb,sprint,poor,5
+Apple iPhone 6,128gb,sprint,faulty,5
+Apple iPhone 6,128gb,other,good,5
+Apple iPhone 6,128gb,other,poor,5
+Apple iPhone 6,128gb,other,faulty,5
+Apple iPhone 6 Plus,16gb,unlocked,good,9.0
+Apple iPhone 6 Plus,16gb,unlocked,poor,5.4
+Apple iPhone 6 Plus,16gb,unlocked,faulty,5
+Apple iPhone 6 Plus,16gb,verizon,good,9.0
+Apple iPhone 6 Plus,16gb,verizon,poor,5.4
+Apple iPhone 6 Plus,16gb,verizon,faulty,5
+Apple iPhone 6 Plus,16gb,AT&T,good,7.62
+Apple iPhone 6 Plus,16gb,AT&T,poor,5
+Apple iPhone 6 Plus,16gb,AT&T,faulty,5
+Apple iPhone 6 Plus,16gb,T-Mobile,good,6.96
+Apple iPhone 6 Plus,16gb,T-Mobile,poor,5
+Apple iPhone 6 Plus,16gb,T-Mobile,faulty,5
+Apple iPhone 6 Plus,16gb,sprint,good,6.42
+Apple iPhone 6 Plus,16gb,sprint,poor,5
+Apple iPhone 6 Plus,16gb,sprint,faulty,5
+Apple iPhone 6 Plus,16gb,other,good,5
+Apple iPhone 6 Plus,16gb,other,poor,5
+Apple iPhone 6 Plus,16gb,other,faulty,5
+Apple iPhone 6 Plus,64gb,unlocked,good,9.0
+Apple iPhone 6 Plus,64gb,unlocked,poor,5.4
+Apple iPhone 6 Plus,64gb,unlocked,faulty,5
+Apple iPhone 6 Plus,64gb,verizon,good,9.0
+Apple iPhone 6 Plus,64gb,verizon,poor,5.4
+Apple iPhone 6 Plus,64gb,verizon,faulty,5
+Apple iPhone 6 Plus,64gb,AT&T,good,7.62
+Apple iPhone 6 Plus,64gb,AT&T,poor,4.57
+Apple iPhone 6 Plus,64gb,AT&T,faulty,5
+Apple iPhone 6 Plus,64gb,T-Mobile,good,6.96
+Apple iPhone 6 Plus,64gb,T-Mobile,poor,5
+Apple iPhone 6 Plus,64gb,T-Mobile,faulty,5
+Apple iPhone 6 Plus,64gb,sprint,good,6.42
+Apple iPhone 6 Plus,64gb,sprint,poor,5
+Apple iPhone 6 Plus,64gb,sprint,faulty,5
+Apple iPhone 6 Plus,64gb,other,good,5
+Apple iPhone 6 Plus,64gb,other,poor,5
+Apple iPhone 6 Plus,64gb,other,faulty,5
+Apple iPhone 6 Plus,128gb,unlocked,good,9.0
+Apple iPhone 6 Plus,128gb,unlocked,poor,5.4
+Apple iPhone 6 Plus,128gb,unlocked,faulty,5
+Apple iPhone 6 Plus,128gb,verizon,good,9.0
+Apple iPhone 6 Plus,128gb,verizon,poor,5.4
+Apple iPhone 6 Plus,128gb,verizon,faulty,5
+Apple iPhone 6 Plus,128gb,AT&T,good,7.62
+Apple iPhone 6 Plus,128gb,AT&T,poor,5
+Apple iPhone 6 Plus,128gb,AT&T,faulty,5
+Apple iPhone 6 Plus,128gb,T-Mobile,good,6.96
+Apple iPhone 6 Plus,128gb,T-Mobile,poor,5
+Apple iPhone 6 Plus,128gb,T-Mobile,faulty,5
+Apple iPhone 6 Plus,128gb,sprint,good,6.42
+Apple iPhone 6 Plus,128gb,sprint,poor,5
+Apple iPhone 6 Plus,128gb,sprint,faulty,5
+Apple iPhone 6 Plus,128gb,other,good,5
+Apple iPhone 6 Plus,128gb,other,poor,5
+Apple iPhone 6 Plus,128gb,other,faulty,5
+Apple iPhone 6s,16gb,unlocked,good,39.5
+Apple iPhone 6s,16gb,unlocked,poor,35.55
+Apple iPhone 6s,16gb,unlocked,faulty,11.85
+Apple iPhone 6s,16gb,verizon,good,39.5
+Apple iPhone 6s,16gb,verizon,poor,35.55
+Apple iPhone 6s,16gb,verizon,faulty,11.85
+Apple iPhone 6s,16gb,AT&T,good,33.46
+Apple iPhone 6s,16gb,AT&T,poor,30.11
+Apple iPhone 6s,16gb,AT&T,faulty,10.04
+Apple iPhone 6s,16gb,T-Mobile,good,30.53
+Apple iPhone 6s,16gb,T-Mobile,poor,27.48
+Apple iPhone 6s,16gb,T-Mobile,faulty,9.16
+Apple iPhone 6s,16gb,sprint,good,28.16
+Apple iPhone 6s,16gb,sprint,poor,25.35
+Apple iPhone 6s,16gb,sprint,faulty,8.45
+Apple iPhone 6s,16gb,other,good,17.38
+Apple iPhone 6s,16gb,other,poor,15.64
+Apple iPhone 6s,16gb,other,faulty,5.21
+Apple iPhone 6s,32gb,unlocked,good,40.0
+Apple iPhone 6s,32gb,unlocked,poor,36.0
+Apple iPhone 6s,32gb,unlocked,faulty,12.0
+Apple iPhone 6s,32gb,verizon,good,40.0
+Apple iPhone 6s,32gb,verizon,poor,36.0
+Apple iPhone 6s,32gb,verizon,faulty,12.0
+Apple iPhone 6s,32gb,AT&T,good,33.88
+Apple iPhone 6s,32gb,AT&T,poor,30.49
+Apple iPhone 6s,32gb,AT&T,faulty,10.16
+Apple iPhone 6s,32gb,T-Mobile,good,30.92
+Apple iPhone 6s,32gb,T-Mobile,poor,27.83
+Apple iPhone 6s,32gb,T-Mobile,faulty,9.28
+Apple iPhone 6s,32gb,sprint,good,28.52
+Apple iPhone 6s,32gb,sprint,poor,25.67
+Apple iPhone 6s,32gb,sprint,faulty,8.56
+Apple iPhone 6s,32gb,other,good,17.6
+Apple iPhone 6s,32gb,other,poor,15.84
+Apple iPhone 6s,32gb,other,faulty,5.28
+Apple iPhone 6s,64gb,unlocked,good,47.0
+Apple iPhone 6s,64gb,unlocked,poor,42.3
+Apple iPhone 6s,64gb,unlocked,faulty,14.1
+Apple iPhone 6s,64gb,verizon,good,47.0
+Apple iPhone 6s,64gb,verizon,poor,42.3
+Apple iPhone 6s,64gb,verizon,faulty,14.1
+Apple iPhone 6s,64gb,AT&T,good,39.81
+Apple iPhone 6s,64gb,AT&T,poor,35.83
+Apple iPhone 6s,64gb,AT&T,faulty,11.94
+Apple iPhone 6s,64gb,T-Mobile,good,36.33
+Apple iPhone 6s,64gb,T-Mobile,poor,32.7
+Apple iPhone 6s,64gb,T-Mobile,faulty,10.9
+Apple iPhone 6s,64gb,sprint,good,33.51
+Apple iPhone 6s,64gb,sprint,poor,30.16
+Apple iPhone 6s,64gb,sprint,faulty,10.05
+Apple iPhone 6s,64gb,other,good,20.68
+Apple iPhone 6s,64gb,other,poor,18.61
+Apple iPhone 6s,64gb,other,faulty,6.2
+Apple iPhone 6s,128gb,unlocked,good,54.0
+Apple iPhone 6s,128gb,unlocked,poor,48.6
+Apple iPhone 6s,128gb,unlocked,faulty,16.2
+Apple iPhone 6s,128gb,verizon,good,54.0
+Apple iPhone 6s,128gb,verizon,poor,48.6
+Apple iPhone 6s,128gb,verizon,faulty,16.2
+Apple iPhone 6s,128gb,AT&T,good,45.74
+Apple iPhone 6s,128gb,AT&T,poor,41.16
+Apple iPhone 6s,128gb,AT&T,faulty,13.72
+Apple iPhone 6s,128gb,T-Mobile,good,41.74
+Apple iPhone 6s,128gb,T-Mobile,poor,37.57
+Apple iPhone 6s,128gb,T-Mobile,faulty,12.52
+Apple iPhone 6s,128gb,sprint,good,38.5
+Apple iPhone 6s,128gb,sprint,poor,34.65
+Apple iPhone 6s,128gb,sprint,faulty,11.55
+Apple iPhone 6s,128gb,other,good,23.76
+Apple iPhone 6s,128gb,other,poor,21.38
+Apple iPhone 6s,128gb,other,faulty,7.13
+Apple iPhone 6s Plus,16gb,unlocked,good,76.0
+Apple iPhone 6s Plus,16gb,unlocked,poor,68.4
+Apple iPhone 6s Plus,16gb,unlocked,faulty,22.8
+Apple iPhone 6s Plus,16gb,verizon,good,76.0
+Apple iPhone 6s Plus,16gb,verizon,poor,68.4
+Apple iPhone 6s Plus,16gb,verizon,faulty,22.8
+Apple iPhone 6s Plus,16gb,AT&T,good,64.37
+Apple iPhone 6s Plus,16gb,AT&T,poor,57.93
+Apple iPhone 6s Plus,16gb,AT&T,faulty,19.31
+Apple iPhone 6s Plus,16gb,T-Mobile,good,58.75
+Apple iPhone 6s Plus,16gb,T-Mobile,poor,52.87
+Apple iPhone 6s Plus,16gb,T-Mobile,faulty,17.62
+Apple iPhone 6s Plus,16gb,sprint,good,54.19
+Apple iPhone 6s Plus,16gb,sprint,poor,48.77
+Apple iPhone 6s Plus,16gb,sprint,faulty,16.26
+Apple iPhone 6s Plus,16gb,other,good,33.44
+Apple iPhone 6s Plus,16gb,other,poor,30.1
+Apple iPhone 6s Plus,16gb,other,faulty,10.03
+Apple iPhone 6s Plus,32gb,unlocked,good,79.0
+Apple iPhone 6s Plus,32gb,unlocked,poor,71.1
+Apple iPhone 6s Plus,32gb,unlocked,faulty,23.7
+Apple iPhone 6s Plus,32gb,verizon,good,79.0
+Apple iPhone 6s Plus,32gb,verizon,poor,71.1
+Apple iPhone 6s Plus,32gb,verizon,faulty,23.7
+Apple iPhone 6s Plus,32gb,AT&T,good,66.91
+Apple iPhone 6s Plus,32gb,AT&T,poor,60.22
+Apple iPhone 6s Plus,32gb,AT&T,faulty,20.07
+Apple iPhone 6s Plus,32gb,T-Mobile,good,61.07
+Apple iPhone 6s Plus,32gb,T-Mobile,poor,54.96
+Apple iPhone 6s Plus,32gb,T-Mobile,faulty,18.32
+Apple iPhone 6s Plus,32gb,sprint,good,56.33
+Apple iPhone 6s Plus,32gb,sprint,poor,50.69
+Apple iPhone 6s Plus,32gb,sprint,faulty,16.9
+Apple iPhone 6s Plus,32gb,other,good,34.76
+Apple iPhone 6s Plus,32gb,other,poor,31.28
+Apple iPhone 6s Plus,32gb,other,faulty,10.43
+Apple iPhone 6s Plus,64gb,unlocked,good,83.0
+Apple iPhone 6s Plus,64gb,unlocked,poor,74.7
+Apple iPhone 6s Plus,64gb,unlocked,faulty,24.9
+Apple iPhone 6s Plus,64gb,verizon,good,83.0
+Apple iPhone 6s Plus,64gb,verizon,poor,74.7
+Apple iPhone 6s Plus,64gb,verizon,faulty,24.9
+Apple iPhone 6s Plus,64gb,AT&T,good,70.3
+Apple iPhone 6s Plus,64gb,AT&T,poor,63.27
+Apple iPhone 6s Plus,64gb,AT&T,faulty,21.09
+Apple iPhone 6s Plus,64gb,T-Mobile,good,64.16
+Apple iPhone 6s Plus,64gb,T-Mobile,poor,57.74
+Apple iPhone 6s Plus,64gb,T-Mobile,faulty,19.25
+Apple iPhone 6s Plus,64gb,sprint,good,59.18
+Apple iPhone 6s Plus,64gb,sprint,poor,53.26
+Apple iPhone 6s Plus,64gb,sprint,faulty,17.75
+Apple iPhone 6s Plus,64gb,other,good,36.52
+Apple iPhone 6s Plus,64gb,other,poor,32.87
+Apple iPhone 6s Plus,64gb,other,faulty,10.96
+Apple iPhone 6s Plus,128gb,unlocked,good,94.0
+Apple iPhone 6s Plus,128gb,unlocked,poor,84.6
+Apple iPhone 6s Plus,128gb,unlocked,faulty,28.2
+Apple iPhone 6s Plus,128gb,verizon,good,94.0
+Apple iPhone 6s Plus,128gb,verizon,poor,84.6
+Apple iPhone 6s Plus,128gb,verizon,faulty,28.2
+Apple iPhone 6s Plus,128gb,AT&T,good,79.62
+Apple iPhone 6s Plus,128gb,AT&T,poor,71.66
+Apple iPhone 6s Plus,128gb,AT&T,faulty,23.89
+Apple iPhone 6s Plus,128gb,T-Mobile,good,72.66
+Apple iPhone 6s Plus,128gb,T-Mobile,poor,65.4
+Apple iPhone 6s Plus,128gb,T-Mobile,faulty,21.8
+Apple iPhone 6s Plus,128gb,sprint,good,67.02
+Apple iPhone 6s Plus,128gb,sprint,poor,60.32
+Apple iPhone 6s Plus,128gb,sprint,faulty,20.11
+Apple iPhone 6s Plus,128gb,other,good,41.36
+Apple iPhone 6s Plus,128gb,other,poor,37.22
+Apple iPhone 6s Plus,128gb,other,faulty,12.41
+Apple iPhone 7,32gb,unlocked,good,76.0
+Apple iPhone 7,32gb,unlocked,poor,68.4
+Apple iPhone 7,32gb,unlocked,faulty,22.8
+Apple iPhone 7,32gb,verizon,good,76.0
+Apple iPhone 7,32gb,verizon,poor,68.4
+Apple iPhone 7,32gb,verizon,faulty,22.8
+Apple iPhone 7,32gb,AT&T,good,64.37
+Apple iPhone 7,32gb,AT&T,poor,57.93
+Apple iPhone 7,32gb,AT&T,faulty,19.31
+Apple iPhone 7,32gb,T-Mobile,good,58.75
+Apple iPhone 7,32gb,T-Mobile,poor,52.87
+Apple iPhone 7,32gb,T-Mobile,faulty,17.62
+Apple iPhone 7,32gb,sprint,good,54.19
+Apple iPhone 7,32gb,sprint,poor,48.77
+Apple iPhone 7,32gb,sprint,faulty,16.26
+Apple iPhone 7,32gb,other,good,33.44
+Apple iPhone 7,32gb,other,poor,30.1
+Apple iPhone 7,32gb,other,faulty,10.03
+Apple iPhone 7,128gb,unlocked,good,78.0
+Apple iPhone 7,128gb,unlocked,poor,70.2
+Apple iPhone 7,128gb,unlocked,faulty,23.4
+Apple iPhone 7,128gb,verizon,good,78.0
+Apple iPhone 7,128gb,verizon,poor,70.2
+Apple iPhone 7,128gb,verizon,faulty,23.4
+Apple iPhone 7,128gb,AT&T,good,66.07
+Apple iPhone 7,128gb,AT&T,poor,59.46
+Apple iPhone 7,128gb,AT&T,faulty,19.82
+Apple iPhone 7,128gb,T-Mobile,good,60.29
+Apple iPhone 7,128gb,T-Mobile,poor,54.26
+Apple iPhone 7,128gb,T-Mobile,faulty,18.09
+Apple iPhone 7,128gb,sprint,good,55.61
+Apple iPhone 7,128gb,sprint,poor,50.05
+Apple iPhone 7,128gb,sprint,faulty,16.68
+Apple iPhone 7,128gb,other,good,34.32
+Apple iPhone 7,128gb,other,poor,30.89
+Apple iPhone 7,128gb,other,faulty,10.3
+Apple iPhone 7,256gb,unlocked,good,82.0
+Apple iPhone 7,256gb,unlocked,poor,73.8
+Apple iPhone 7,256gb,unlocked,faulty,24.6
+Apple iPhone 7,256gb,verizon,good,82.0
+Apple iPhone 7,256gb,verizon,poor,73.8
+Apple iPhone 7,256gb,verizon,faulty,24.6
+Apple iPhone 7,256gb,AT&T,good,69.45
+Apple iPhone 7,256gb,AT&T,poor,62.51
+Apple iPhone 7,256gb,AT&T,faulty,20.84
+Apple iPhone 7,256gb,T-Mobile,good,63.39
+Apple iPhone 7,256gb,T-Mobile,poor,57.05
+Apple iPhone 7,256gb,T-Mobile,faulty,19.02
+Apple iPhone 7,256gb,sprint,good,58.47
+Apple iPhone 7,256gb,sprint,poor,52.62
+Apple iPhone 7,256gb,sprint,faulty,17.54
+Apple iPhone 7,256gb,other,good,36.08
+Apple iPhone 7,256gb,other,poor,32.47
+Apple iPhone 7,256gb,other,faulty,10.82
+Apple iPhone 7 Plus,32gb,unlocked,good,142.0
+Apple iPhone 7 Plus,32gb,unlocked,poor,127.8
+Apple iPhone 7 Plus,32gb,unlocked,faulty,42.6
+Apple iPhone 7 Plus,32gb,verizon,good,142.0
+Apple iPhone 7 Plus,32gb,verizon,poor,127.8
+Apple iPhone 7 Plus,32gb,verizon,faulty,42.6
+Apple iPhone 7 Plus,32gb,AT&T,good,120.27
+Apple iPhone 7 Plus,32gb,AT&T,poor,108.25
+Apple iPhone 7 Plus,32gb,AT&T,faulty,36.08
+Apple iPhone 7 Plus,32gb,T-Mobile,good,109.77
+Apple iPhone 7 Plus,32gb,T-Mobile,poor,98.79
+Apple iPhone 7 Plus,32gb,T-Mobile,faulty,32.93
+Apple iPhone 7 Plus,32gb,sprint,good,101.25
+Apple iPhone 7 Plus,32gb,sprint,poor,91.12
+Apple iPhone 7 Plus,32gb,sprint,faulty,30.37
+Apple iPhone 7 Plus,32gb,other,good,62.48
+Apple iPhone 7 Plus,32gb,other,poor,56.23
+Apple iPhone 7 Plus,32gb,other,faulty,18.74
+Apple iPhone 7 Plus,128gb,unlocked,good,148.0
+Apple iPhone 7 Plus,128gb,unlocked,poor,133.2
+Apple iPhone 7 Plus,128gb,unlocked,faulty,44.4
+Apple iPhone 7 Plus,128gb,verizon,good,148.0
+Apple iPhone 7 Plus,128gb,verizon,poor,133.2
+Apple iPhone 7 Plus,128gb,verizon,faulty,44.4
+Apple iPhone 7 Plus,128gb,AT&T,good,125.36
+Apple iPhone 7 Plus,128gb,AT&T,poor,112.82
+Apple iPhone 7 Plus,128gb,AT&T,faulty,37.61
+Apple iPhone 7 Plus,128gb,T-Mobile,good,114.4
+Apple iPhone 7 Plus,128gb,T-Mobile,poor,102.96
+Apple iPhone 7 Plus,128gb,T-Mobile,faulty,34.32
+Apple iPhone 7 Plus,128gb,sprint,good,105.52
+Apple iPhone 7 Plus,128gb,sprint,poor,94.97
+Apple iPhone 7 Plus,128gb,sprint,faulty,31.66
+Apple iPhone 7 Plus,128gb,other,good,65.12
+Apple iPhone 7 Plus,128gb,other,poor,58.61
+Apple iPhone 7 Plus,128gb,other,faulty,19.54
+Apple iPhone 7 Plus,256gb,unlocked,good,161.0
+Apple iPhone 7 Plus,256gb,unlocked,poor,144.9
+Apple iPhone 7 Plus,256gb,unlocked,faulty,48.3
+Apple iPhone 7 Plus,256gb,verizon,good,161.0
+Apple iPhone 7 Plus,256gb,verizon,poor,144.9
+Apple iPhone 7 Plus,256gb,verizon,faulty,48.3
+Apple iPhone 7 Plus,256gb,AT&T,good,136.37
+Apple iPhone 7 Plus,256gb,AT&T,poor,122.73
+Apple iPhone 7 Plus,256gb,AT&T,faulty,40.91
+Apple iPhone 7 Plus,256gb,T-Mobile,good,124.45
+Apple iPhone 7 Plus,256gb,T-Mobile,poor,112.01
+Apple iPhone 7 Plus,256gb,T-Mobile,faulty,37.34
+Apple iPhone 7 Plus,256gb,sprint,good,114.79
+Apple iPhone 7 Plus,256gb,sprint,poor,103.31
+Apple iPhone 7 Plus,256gb,sprint,faulty,34.44
+Apple iPhone 7 Plus,256gb,other,good,70.84
+Apple iPhone 7 Plus,256gb,other,poor,63.76
+Apple iPhone 7 Plus,256gb,other,faulty,21.25
+Apple iPhone 8,64gb,unlocked,good,116.0
+Apple iPhone 8,64gb,unlocked,poor,104.4
+Apple iPhone 8,64gb,unlocked,faulty,34.8
+Apple iPhone 8,64gb,verizon,good,116.0
+Apple iPhone 8,64gb,verizon,poor,104.4
+Apple iPhone 8,64gb,verizon,faulty,34.8
+Apple iPhone 8,64gb,AT&T,good,98.25
+Apple iPhone 8,64gb,AT&T,poor,88.43
+Apple iPhone 8,64gb,AT&T,faulty,29.48
+Apple iPhone 8,64gb,T-Mobile,good,89.67
+Apple iPhone 8,64gb,T-Mobile,poor,80.7
+Apple iPhone 8,64gb,T-Mobile,faulty,26.9
+Apple iPhone 8,64gb,sprint,good,82.71
+Apple iPhone 8,64gb,sprint,poor,74.44
+Apple iPhone 8,64gb,sprint,faulty,24.81
+Apple iPhone 8,64gb,other,good,51.04
+Apple iPhone 8,64gb,other,poor,45.94
+Apple iPhone 8,64gb,other,faulty,15.31
+Apple iPhone 8,128gb,unlocked,good,124.0
+Apple iPhone 8,128gb,unlocked,poor,111.6
+Apple iPhone 8,128gb,unlocked,faulty,37.2
+Apple iPhone 8,128gb,verizon,good,124.0
+Apple iPhone 8,128gb,verizon,poor,111.6
+Apple iPhone 8,128gb,verizon,faulty,37.2
+Apple iPhone 8,128gb,AT&T,good,105.03
+Apple iPhone 8,128gb,AT&T,poor,94.53
+Apple iPhone 8,128gb,AT&T,faulty,31.51
+Apple iPhone 8,128gb,T-Mobile,good,95.85
+Apple iPhone 8,128gb,T-Mobile,poor,86.27
+Apple iPhone 8,128gb,T-Mobile,faulty,28.76
+Apple iPhone 8,128gb,sprint,good,88.41
+Apple iPhone 8,128gb,sprint,poor,79.57
+Apple iPhone 8,128gb,sprint,faulty,26.52
+Apple iPhone 8,128gb,other,good,54.56
+Apple iPhone 8,128gb,other,poor,49.1
+Apple iPhone 8,128gb,other,faulty,16.37
+Apple iPhone 8,256gb,unlocked,good,137.0
+Apple iPhone 8,256gb,unlocked,poor,123.3
+Apple iPhone 8,256gb,unlocked,faulty,41.1
+Apple iPhone 8,256gb,verizon,good,137.0
+Apple iPhone 8,256gb,verizon,poor,123.3
+Apple iPhone 8,256gb,verizon,faulty,41.1
+Apple iPhone 8,256gb,AT&T,good,116.04
+Apple iPhone 8,256gb,AT&T,poor,104.44
+Apple iPhone 8,256gb,AT&T,faulty,34.81
+Apple iPhone 8,256gb,T-Mobile,good,105.9
+Apple iPhone 8,256gb,T-Mobile,poor,95.31
+Apple iPhone 8,256gb,T-Mobile,faulty,31.77
+Apple iPhone 8,256gb,sprint,good,97.68
+Apple iPhone 8,256gb,sprint,poor,87.91
+Apple iPhone 8,256gb,sprint,faulty,29.3
+Apple iPhone 8,256gb,other,good,60.28
+Apple iPhone 8,256gb,other,poor,54.25
+Apple iPhone 8,256gb,other,faulty,18.08
+Apple iPhone 8 Plus,64gb,unlocked,good,182.0
+Apple iPhone 8 Plus,64gb,unlocked,poor,163.8
+Apple iPhone 8 Plus,64gb,unlocked,faulty,54.6
+Apple iPhone 8 Plus,64gb,verizon,good,182.0
+Apple iPhone 8 Plus,64gb,verizon,poor,163.8
+Apple iPhone 8 Plus,64gb,verizon,faulty,54.6
+Apple iPhone 8 Plus,64gb,AT&T,good,154.15
+Apple iPhone 8 Plus,64gb,AT&T,poor,138.74
+Apple iPhone 8 Plus,64gb,AT&T,faulty,46.25
+Apple iPhone 8 Plus,64gb,T-Mobile,good,140.69
+Apple iPhone 8 Plus,64gb,T-Mobile,poor,126.62
+Apple iPhone 8 Plus,64gb,T-Mobile,faulty,42.21
+Apple iPhone 8 Plus,64gb,sprint,good,129.77
+Apple iPhone 8 Plus,64gb,sprint,poor,116.79
+Apple iPhone 8 Plus,64gb,sprint,faulty,38.93
+Apple iPhone 8 Plus,64gb,other,good,80.08
+Apple iPhone 8 Plus,64gb,other,poor,72.07
+Apple iPhone 8 Plus,64gb,other,faulty,24.02
+Apple iPhone 8 Plus,128gb,unlocked,good,196.0
+Apple iPhone 8 Plus,128gb,unlocked,poor,176.4
+Apple iPhone 8 Plus,128gb,unlocked,faulty,58.8
+Apple iPhone 8 Plus,128gb,verizon,good,196.0
+Apple iPhone 8 Plus,128gb,verizon,poor,176.4
+Apple iPhone 8 Plus,128gb,verizon,faulty,58.8
+Apple iPhone 8 Plus,128gb,AT&T,good,166.01
+Apple iPhone 8 Plus,128gb,AT&T,poor,149.41
+Apple iPhone 8 Plus,128gb,AT&T,faulty,49.8
+Apple iPhone 8 Plus,128gb,T-Mobile,good,151.51
+Apple iPhone 8 Plus,128gb,T-Mobile,poor,136.36
+Apple iPhone 8 Plus,128gb,T-Mobile,faulty,45.45
+Apple iPhone 8 Plus,128gb,sprint,good,139.75
+Apple iPhone 8 Plus,128gb,sprint,poor,125.77
+Apple iPhone 8 Plus,128gb,sprint,faulty,41.92
+Apple iPhone 8 Plus,128gb,other,good,86.24
+Apple iPhone 8 Plus,128gb,other,poor,77.62
+Apple iPhone 8 Plus,128gb,other,faulty,25.87
+Apple iPhone 8 Plus,256gb,unlocked,good,219.0
+Apple iPhone 8 Plus,256gb,unlocked,poor,197.1
+Apple iPhone 8 Plus,256gb,unlocked,faulty,65.7
+Apple iPhone 8 Plus,256gb,verizon,good,219.0
+Apple iPhone 8 Plus,256gb,verizon,poor,197.1
+Apple iPhone 8 Plus,256gb,verizon,faulty,65.7
+Apple iPhone 8 Plus,256gb,AT&T,good,185.49
+Apple iPhone 8 Plus,256gb,AT&T,poor,166.94
+Apple iPhone 8 Plus,256gb,AT&T,faulty,55.65
+Apple iPhone 8 Plus,256gb,T-Mobile,good,169.29
+Apple iPhone 8 Plus,256gb,T-Mobile,poor,152.36
+Apple iPhone 8 Plus,256gb,T-Mobile,faulty,50.79
+Apple iPhone 8 Plus,256gb,sprint,good,156.15
+Apple iPhone 8 Plus,256gb,sprint,poor,140.53
+Apple iPhone 8 Plus,256gb,sprint,faulty,46.84
+Apple iPhone 8 Plus,256gb,other,good,96.36
+Apple iPhone 8 Plus,256gb,other,poor,86.72
+Apple iPhone 8 Plus,256gb,other,faulty,28.91
+Apple iPhone SE (2nd Generation),64 GB,unlocked,good,172.0
+Apple iPhone SE (2nd Generation),64 GB,unlocked,poor,154.8
+Apple iPhone SE (2nd Generation),64 GB,unlocked,faulty,51.6
+Apple iPhone SE (2nd Generation),64 GB,verizon,good,172.0
+Apple iPhone SE (2nd Generation),64 GB,verizon,poor,154.8
+Apple iPhone SE (2nd Generation),64 GB,verizon,faulty,51.6
+Apple iPhone SE (2nd Generation),64 GB,AT&T,good,145.68
+Apple iPhone SE (2nd Generation),64 GB,AT&T,poor,131.12
+Apple iPhone SE (2nd Generation),64 GB,AT&T,faulty,43.71
+Apple iPhone SE (2nd Generation),64 GB,T-Mobile,good,132.96
+Apple iPhone SE (2nd Generation),64 GB,T-Mobile,poor,119.66
+Apple iPhone SE (2nd Generation),64 GB,T-Mobile,faulty,39.89
+Apple iPhone SE (2nd Generation),64 GB,sprint,good,122.64
+Apple iPhone SE (2nd Generation),64 GB,sprint,poor,110.37
+Apple iPhone SE (2nd Generation),64 GB,sprint,faulty,36.79
+Apple iPhone SE (2nd Generation),64 GB,other,good,75.68
+Apple iPhone SE (2nd Generation),64 GB,other,poor,68.11
+Apple iPhone SE (2nd Generation),64 GB,other,faulty,22.7
+Apple iPhone SE (2nd Generation),128 GB,unlocked,good,195.0
+Apple iPhone SE (2nd Generation),128 GB,unlocked,poor,175.5
+Apple iPhone SE (2nd Generation),128 GB,unlocked,faulty,58.5
+Apple iPhone SE (2nd Generation),128 GB,verizon,good,195.0
+Apple iPhone SE (2nd Generation),128 GB,verizon,poor,175.5
+Apple iPhone SE (2nd Generation),128 GB,verizon,faulty,58.5
+Apple iPhone SE (2nd Generation),128 GB,AT&T,good,165.16
+Apple iPhone SE (2nd Generation),128 GB,AT&T,poor,148.65
+Apple iPhone SE (2nd Generation),128 GB,AT&T,faulty,49.55
+Apple iPhone SE (2nd Generation),128 GB,T-Mobile,good,150.74
+Apple iPhone SE (2nd Generation),128 GB,T-Mobile,poor,135.66
+Apple iPhone SE (2nd Generation),128 GB,T-Mobile,faulty,45.22
+Apple iPhone SE (2nd Generation),128 GB,sprint,good,139.03
+Apple iPhone SE (2nd Generation),128 GB,sprint,poor,125.13
+Apple iPhone SE (2nd Generation),128 GB,sprint,faulty,41.71
+Apple iPhone SE (2nd Generation),128 GB,other,good,85.8
+Apple iPhone SE (2nd Generation),128 GB,other,poor,77.22
+Apple iPhone SE (2nd Generation),128 GB,other,faulty,25.74
+Apple iPhone SE (2nd Generation),256 GB,unlocked,good,215.0
+Apple iPhone SE (2nd Generation),256 GB,unlocked,poor,193.5
+Apple iPhone SE (2nd Generation),256 GB,unlocked,faulty,64.5
+Apple iPhone SE (2nd Generation),256 GB,verizon,good,215.0
+Apple iPhone SE (2nd Generation),256 GB,verizon,poor,193.5
+Apple iPhone SE (2nd Generation),256 GB,verizon,faulty,64.5
+Apple iPhone SE (2nd Generation),256 GB,AT&T,good,182.1
+Apple iPhone SE (2nd Generation),256 GB,AT&T,poor,163.89
+Apple iPhone SE (2nd Generation),256 GB,AT&T,faulty,54.63
+Apple iPhone SE (2nd Generation),256 GB,T-Mobile,good,166.19
+Apple iPhone SE (2nd Generation),256 GB,T-Mobile,poor,149.58
+Apple iPhone SE (2nd Generation),256 GB,T-Mobile,faulty,49.86
+Apple iPhone SE (2nd Generation),256 GB,sprint,good,153.29
+Apple iPhone SE (2nd Generation),256 GB,sprint,poor,137.97
+Apple iPhone SE (2nd Generation),256 GB,sprint,faulty,45.99
+Apple iPhone SE (2nd Generation),256 GB,other,good,94.6
+Apple iPhone SE (2nd Generation),256 GB,other,poor,85.14
+Apple iPhone SE (2nd Generation),256 GB,other,faulty,28.38
+Apple iPhone X,64gb,unlocked,good,216.0
+Apple iPhone X,64gb,unlocked,poor,194.4
+Apple iPhone X,64gb,unlocked,faulty,64.8
+Apple iPhone X,64gb,verizon,good,216.0
+Apple iPhone X,64gb,verizon,poor,194.4
+Apple iPhone X,64gb,verizon,faulty,64.8
+Apple iPhone X,64gb,AT&T,good,182.95
+Apple iPhone X,64gb,AT&T,poor,164.66
+Apple iPhone X,64gb,AT&T,faulty,54.89
+Apple iPhone X,64gb,T-Mobile,good,166.97
+Apple iPhone X,64gb,T-Mobile,poor,150.27
+Apple iPhone X,64gb,T-Mobile,faulty,50.09
+Apple iPhone X,64gb,sprint,good,154.01
+Apple iPhone X,64gb,sprint,poor,138.61
+Apple iPhone X,64gb,sprint,faulty,46.2
+Apple iPhone X,64gb,other,good,95.04
+Apple iPhone X,64gb,other,poor,85.54
+Apple iPhone X,64gb,other,faulty,28.51
+Apple iPhone X,256gb,unlocked,good,237.0
+Apple iPhone X,256gb,unlocked,poor,213.3
+Apple iPhone X,256gb,unlocked,faulty,71.1
+Apple iPhone X,256gb,verizon,good,237.0
+Apple iPhone X,256gb,verizon,poor,213.3
+Apple iPhone X,256gb,verizon,faulty,71.1
+Apple iPhone X,256gb,AT&T,good,200.74
+Apple iPhone X,256gb,AT&T,poor,180.67
+Apple iPhone X,256gb,AT&T,faulty,60.22
+Apple iPhone X,256gb,T-Mobile,good,183.2
+Apple iPhone X,256gb,T-Mobile,poor,164.88
+Apple iPhone X,256gb,T-Mobile,faulty,54.96
+Apple iPhone X,256gb,sprint,good,168.98
+Apple iPhone X,256gb,sprint,poor,152.08
+Apple iPhone X,256gb,sprint,faulty,50.69
+Apple iPhone X,256gb,other,good,104.28
+Apple iPhone X,256gb,other,poor,93.85
+Apple iPhone X,256gb,other,faulty,31.28
+Apple iPhone XR,64gb,unlocked,good,220.0
+Apple iPhone XR,64gb,unlocked,poor,198.0
+Apple iPhone XR,64gb,unlocked,faulty,66.0
+Apple iPhone XR,64gb,verizon,good,220.0
+Apple iPhone XR,64gb,verizon,poor,198.0
+Apple iPhone XR,64gb,verizon,faulty,66.0
+Apple iPhone XR,64gb,AT&T,good,186.34
+Apple iPhone XR,64gb,AT&T,poor,167.71
+Apple iPhone XR,64gb,AT&T,faulty,55.9
+Apple iPhone XR,64gb,T-Mobile,good,170.06
+Apple iPhone XR,64gb,T-Mobile,poor,153.05
+Apple iPhone XR,64gb,T-Mobile,faulty,51.02
+Apple iPhone XR,64gb,sprint,good,156.86
+Apple iPhone XR,64gb,sprint,poor,141.17
+Apple iPhone XR,64gb,sprint,faulty,47.06
+Apple iPhone XR,64gb,other,good,96.8
+Apple iPhone XR,64gb,other,poor,87.12
+Apple iPhone XR,64gb,other,faulty,29.04
+Apple iPhone XR,128gb,unlocked,good,232.0
+Apple iPhone XR,128gb,unlocked,poor,208.8
+Apple iPhone XR,128gb,unlocked,faulty,69.6
+Apple iPhone XR,128gb,verizon,good,232.0
+Apple iPhone XR,128gb,verizon,poor,208.8
+Apple iPhone XR,128gb,verizon,faulty,69.6
+Apple iPhone XR,128gb,AT&T,good,196.5
+Apple iPhone XR,128gb,AT&T,poor,176.85
+Apple iPhone XR,128gb,AT&T,faulty,58.95
+Apple iPhone XR,128gb,T-Mobile,good,179.34
+Apple iPhone XR,128gb,T-Mobile,poor,161.4
+Apple iPhone XR,128gb,T-Mobile,faulty,53.8
+Apple iPhone XR,128gb,sprint,good,165.42
+Apple iPhone XR,128gb,sprint,poor,148.87
+Apple iPhone XR,128gb,sprint,faulty,49.62
+Apple iPhone XR,128gb,other,good,102.08
+Apple iPhone XR,128gb,other,poor,91.87
+Apple iPhone XR,128gb,other,faulty,30.62
+Apple iPhone XR,256gb,unlocked,good,255.0
+Apple iPhone XR,256gb,unlocked,poor,229.5
+Apple iPhone XR,256gb,unlocked,faulty,76.5
+Apple iPhone XR,256gb,verizon,good,255.0
+Apple iPhone XR,256gb,verizon,poor,229.5
+Apple iPhone XR,256gb,verizon,faulty,76.5
+Apple iPhone XR,256gb,AT&T,good,215.98
+Apple iPhone XR,256gb,AT&T,poor,194.39
+Apple iPhone XR,256gb,AT&T,faulty,64.8
+Apple iPhone XR,256gb,T-Mobile,good,197.12
+Apple iPhone XR,256gb,T-Mobile,poor,177.4
+Apple iPhone XR,256gb,T-Mobile,faulty,59.13
+Apple iPhone XR,256gb,sprint,good,181.81
+Apple iPhone XR,256gb,sprint,poor,163.63
+Apple iPhone XR,256gb,sprint,faulty,54.54
+Apple iPhone XR,256gb,other,good,112.2
+Apple iPhone XR,256gb,other,poor,100.98
+Apple iPhone XR,256gb,other,faulty,33.66
+Apple iPhone XS,64gb,unlocked,good,257.0
+Apple iPhone XS,64gb,unlocked,poor,231.3
+Apple iPhone XS,64gb,unlocked,faulty,77.1
+Apple iPhone XS,64gb,verizon,good,257.0
+Apple iPhone XS,64gb,verizon,poor,231.3
+Apple iPhone XS,64gb,verizon,faulty,77.1
+Apple iPhone XS,64gb,AT&T,good,217.68
+Apple iPhone XS,64gb,AT&T,poor,195.91
+Apple iPhone XS,64gb,AT&T,faulty,65.3
+Apple iPhone XS,64gb,T-Mobile,good,198.66
+Apple iPhone XS,64gb,T-Mobile,poor,178.79
+Apple iPhone XS,64gb,T-Mobile,faulty,59.6
+Apple iPhone XS,64gb,sprint,good,183.24
+Apple iPhone XS,64gb,sprint,poor,164.92
+Apple iPhone XS,64gb,sprint,faulty,54.97
+Apple iPhone XS,64gb,other,good,113.08
+Apple iPhone XS,64gb,other,poor,101.77
+Apple iPhone XS,64gb,other,faulty,33.92
+Apple iPhone XS,256gb,unlocked,good,274.0
+Apple iPhone XS,256gb,unlocked,poor,246.6
+Apple iPhone XS,256gb,unlocked,faulty,82.2
+Apple iPhone XS,256gb,verizon,good,274.0
+Apple iPhone XS,256gb,verizon,poor,246.6
+Apple iPhone XS,256gb,verizon,faulty,82.2
+Apple iPhone XS,256gb,AT&T,good,232.08
+Apple iPhone XS,256gb,AT&T,poor,208.87
+Apple iPhone XS,256gb,AT&T,faulty,69.62
+Apple iPhone XS,256gb,T-Mobile,good,211.8
+Apple iPhone XS,256gb,T-Mobile,poor,190.62
+Apple iPhone XS,256gb,T-Mobile,faulty,63.54
+Apple iPhone XS,256gb,sprint,good,195.36
+Apple iPhone XS,256gb,sprint,poor,175.83
+Apple iPhone XS,256gb,sprint,faulty,58.61
+Apple iPhone XS,256gb,other,good,120.56
+Apple iPhone XS,256gb,other,poor,108.5
+Apple iPhone XS,256gb,other,faulty,36.17
+Apple iPhone XS,512gb,unlocked,good,301.0
+Apple iPhone XS,512gb,unlocked,poor,270.9
+Apple iPhone XS,512gb,unlocked,faulty,90.3
+Apple iPhone XS,512gb,verizon,good,301.0
+Apple iPhone XS,512gb,verizon,poor,270.9
+Apple iPhone XS,512gb,verizon,faulty,90.3
+Apple iPhone XS,512gb,AT&T,good,254.95
+Apple iPhone XS,512gb,AT&T,poor,229.45
+Apple iPhone XS,512gb,AT&T,faulty,76.48
+Apple iPhone XS,512gb,T-Mobile,good,232.67
+Apple iPhone XS,512gb,T-Mobile,poor,209.41
+Apple iPhone XS,512gb,T-Mobile,faulty,69.8
+Apple iPhone XS,512gb,sprint,good,214.61
+Apple iPhone XS,512gb,sprint,poor,193.15
+Apple iPhone XS,512gb,sprint,faulty,64.38
+Apple iPhone XS,512gb,other,good,132.44
+Apple iPhone XS,512gb,other,poor,119.2
+Apple iPhone XS,512gb,other,faulty,39.73
+Apple iPhone XS Max,64gb,unlocked,good,297.0
+Apple iPhone XS Max,64gb,unlocked,poor,267.3
+Apple iPhone XS Max,64gb,unlocked,faulty,89.1
+Apple iPhone XS Max,64gb,verizon,good,297.0
+Apple iPhone XS Max,64gb,verizon,poor,267.3
+Apple iPhone XS Max,64gb,verizon,faulty,89.1
+Apple iPhone XS Max,64gb,AT&T,good,251.56
+Apple iPhone XS Max,64gb,AT&T,poor,226.4
+Apple iPhone XS Max,64gb,AT&T,faulty,75.47
+Apple iPhone XS Max,64gb,T-Mobile,good,229.58
+Apple iPhone XS Max,64gb,T-Mobile,poor,206.62
+Apple iPhone XS Max,64gb,T-Mobile,faulty,68.87
+Apple iPhone XS Max,64gb,sprint,good,211.76
+Apple iPhone XS Max,64gb,sprint,poor,190.58
+Apple iPhone XS Max,64gb,sprint,faulty,63.53
+Apple iPhone XS Max,64gb,other,good,130.68
+Apple iPhone XS Max,64gb,other,poor,117.61
+Apple iPhone XS Max,64gb,other,faulty,39.2
+Apple iPhone XS Max,256gb,unlocked,good,332.0
+Apple iPhone XS Max,256gb,unlocked,poor,298.8
+Apple iPhone XS Max,256gb,unlocked,faulty,99.6
+Apple iPhone XS Max,256gb,verizon,good,332.0
+Apple iPhone XS Max,256gb,verizon,poor,298.8
+Apple iPhone XS Max,256gb,verizon,faulty,99.6
+Apple iPhone XS Max,256gb,AT&T,good,281.2
+Apple iPhone XS Max,256gb,AT&T,poor,253.08
+Apple iPhone XS Max,256gb,AT&T,faulty,84.36
+Apple iPhone XS Max,256gb,T-Mobile,good,256.64
+Apple iPhone XS Max,256gb,T-Mobile,poor,230.97
+Apple iPhone XS Max,256gb,T-Mobile,faulty,76.99
+Apple iPhone XS Max,256gb,sprint,good,236.72
+Apple iPhone XS Max,256gb,sprint,poor,213.04
+Apple iPhone XS Max,256gb,sprint,faulty,71.01
+Apple iPhone XS Max,256gb,other,good,146.08
+Apple iPhone XS Max,256gb,other,poor,131.47
+Apple iPhone XS Max,256gb,other,faulty,43.82
+Apple iPhone XS Max,512gb,unlocked,good,351.0
+Apple iPhone XS Max,512gb,unlocked,poor,315.9
+Apple iPhone XS Max,512gb,unlocked,faulty,105.3
+Apple iPhone XS Max,512gb,verizon,good,351.0
+Apple iPhone XS Max,512gb,verizon,poor,315.9
+Apple iPhone XS Max,512gb,verizon,faulty,105.3
+Apple iPhone XS Max,512gb,AT&T,good,297.3
+Apple iPhone XS Max,512gb,AT&T,poor,267.57
+Apple iPhone XS Max,512gb,AT&T,faulty,89.19
+Apple iPhone XS Max,512gb,T-Mobile,good,271.32
+Apple iPhone XS Max,512gb,T-Mobile,poor,244.19
+Apple iPhone XS Max,512gb,T-Mobile,faulty,81.4
+Apple iPhone XS Max,512gb,sprint,good,250.26
+Apple iPhone XS Max,512gb,sprint,poor,225.24
+Apple iPhone XS Max,512gb,sprint,faulty,75.08
+Apple iPhone XS Max,512gb,other,good,154.44
+Apple iPhone XS Max,512gb,other,poor,139.0
+Apple iPhone XS Max,512gb,other,faulty,46.33
+Apple iPhone 11,64gb,unlocked,good,370.0
+Apple iPhone 11,64gb,unlocked,poor,333.0
+Apple iPhone 11,64gb,unlocked,faulty,111.0
+Apple iPhone 11,64gb,verizon,good,370.0
+Apple iPhone 11,64gb,verizon,poor,333.0
+Apple iPhone 11,64gb,verizon,faulty,111.0
+Apple iPhone 11,64gb,AT&T,good,313.39
+Apple iPhone 11,64gb,AT&T,poor,282.05
+Apple iPhone 11,64gb,AT&T,faulty,94.02
+Apple iPhone 11,64gb,T-Mobile,good,286.01
+Apple iPhone 11,64gb,T-Mobile,poor,257.41
+Apple iPhone 11,64gb,T-Mobile,faulty,85.8
+Apple iPhone 11,64gb,sprint,good,263.81
+Apple iPhone 11,64gb,sprint,poor,237.43
+Apple iPhone 11,64gb,sprint,faulty,79.14
+Apple iPhone 11,64gb,other,good,162.8
+Apple iPhone 11,64gb,other,poor,146.52
+Apple iPhone 11,64gb,other,faulty,48.84
+Apple iPhone 11,128gb,unlocked,good,382.0
+Apple iPhone 11,128gb,unlocked,poor,343.8
+Apple iPhone 11,128gb,unlocked,faulty,114.6
+Apple iPhone 11,128gb,verizon,good,382.0
+Apple iPhone 11,128gb,verizon,poor,343.8
+Apple iPhone 11,128gb,verizon,faulty,114.6
+Apple iPhone 11,128gb,AT&T,good,323.55
+Apple iPhone 11,128gb,AT&T,poor,291.2
+Apple iPhone 11,128gb,AT&T,faulty,97.07
+Apple iPhone 11,128gb,T-Mobile,good,295.29
+Apple iPhone 11,128gb,T-Mobile,poor,265.76
+Apple iPhone 11,128gb,T-Mobile,faulty,88.59
+Apple iPhone 11,128gb,sprint,good,272.37
+Apple iPhone 11,128gb,sprint,poor,245.13
+Apple iPhone 11,128gb,sprint,faulty,81.71
+Apple iPhone 11,128gb,other,good,168.08
+Apple iPhone 11,128gb,other,poor,151.27
+Apple iPhone 11,128gb,other,faulty,50.42
+Apple iPhone 11,256gb,unlocked,good,401.0
+Apple iPhone 11,256gb,unlocked,poor,360.9
+Apple iPhone 11,256gb,unlocked,faulty,120.3
+Apple iPhone 11,256gb,verizon,good,401.0
+Apple iPhone 11,256gb,verizon,poor,360.9
+Apple iPhone 11,256gb,verizon,faulty,120.3
+Apple iPhone 11,256gb,AT&T,good,339.65
+Apple iPhone 11,256gb,AT&T,poor,305.68
+Apple iPhone 11,256gb,AT&T,faulty,101.89
+Apple iPhone 11,256gb,T-Mobile,good,309.97
+Apple iPhone 11,256gb,T-Mobile,poor,278.98
+Apple iPhone 11,256gb,T-Mobile,faulty,92.99
+Apple iPhone 11,256gb,sprint,good,285.91
+Apple iPhone 11,256gb,sprint,poor,257.32
+Apple iPhone 11,256gb,sprint,faulty,85.77
+Apple iPhone 11,256gb,other,good,176.44
+Apple iPhone 11,256gb,other,poor,158.8
+Apple iPhone 11,256gb,other,faulty,52.93
+Apple iPhone 11 Pro,64gb,unlocked,good,464.0
+Apple iPhone 11 Pro,64gb,unlocked,poor,417.6
+Apple iPhone 11 Pro,64gb,unlocked,faulty,139.2
+Apple iPhone 11 Pro,64gb,verizon,good,464.0
+Apple iPhone 11 Pro,64gb,verizon,poor,417.6
+Apple iPhone 11 Pro,64gb,verizon,faulty,139.2
+Apple iPhone 11 Pro,64gb,AT&T,good,393.01
+Apple iPhone 11 Pro,64gb,AT&T,poor,353.71
+Apple iPhone 11 Pro,64gb,AT&T,faulty,117.9
+Apple iPhone 11 Pro,64gb,T-Mobile,good,358.67
+Apple iPhone 11 Pro,64gb,T-Mobile,poor,322.8
+Apple iPhone 11 Pro,64gb,T-Mobile,faulty,107.6
+Apple iPhone 11 Pro,64gb,sprint,good,330.83
+Apple iPhone 11 Pro,64gb,sprint,poor,297.75
+Apple iPhone 11 Pro,64gb,sprint,faulty,99.25
+Apple iPhone 11 Pro,64gb,other,good,204.16
+Apple iPhone 11 Pro,64gb,other,poor,183.74
+Apple iPhone 11 Pro,64gb,other,faulty,61.25
+Apple iPhone 11 Pro,256gb,unlocked,good,482.0
+Apple iPhone 11 Pro,256gb,unlocked,poor,433.8
+Apple iPhone 11 Pro,256gb,unlocked,faulty,144.6
+Apple iPhone 11 Pro,256gb,verizon,good,482.0
+Apple iPhone 11 Pro,256gb,verizon,poor,433.8
+Apple iPhone 11 Pro,256gb,verizon,faulty,144.6
+Apple iPhone 11 Pro,256gb,AT&T,good,408.25
+Apple iPhone 11 Pro,256gb,AT&T,poor,367.43
+Apple iPhone 11 Pro,256gb,AT&T,faulty,122.48
+Apple iPhone 11 Pro,256gb,T-Mobile,good,372.59
+Apple iPhone 11 Pro,256gb,T-Mobile,poor,335.33
+Apple iPhone 11 Pro,256gb,T-Mobile,faulty,111.78
+Apple iPhone 11 Pro,256gb,sprint,good,343.67
+Apple iPhone 11 Pro,256gb,sprint,poor,309.3
+Apple iPhone 11 Pro,256gb,sprint,faulty,103.1
+Apple iPhone 11 Pro,256gb,other,good,212.08
+Apple iPhone 11 Pro,256gb,other,poor,190.87
+Apple iPhone 11 Pro,256gb,other,faulty,63.62
+Apple iPhone 11 Pro,512gb,unlocked,good,506.0
+Apple iPhone 11 Pro,512gb,unlocked,poor,455.4
+Apple iPhone 11 Pro,512gb,unlocked,faulty,151.8
+Apple iPhone 11 Pro,512gb,verizon,good,506.0
+Apple iPhone 11 Pro,512gb,verizon,poor,455.4
+Apple iPhone 11 Pro,512gb,verizon,faulty,151.8
+Apple iPhone 11 Pro,512gb,AT&T,good,428.58
+Apple iPhone 11 Pro,512gb,AT&T,poor,385.72
+Apple iPhone 11 Pro,512gb,AT&T,faulty,128.57
+Apple iPhone 11 Pro,512gb,T-Mobile,good,391.14
+Apple iPhone 11 Pro,512gb,T-Mobile,poor,352.02
+Apple iPhone 11 Pro,512gb,T-Mobile,faulty,117.34
+Apple iPhone 11 Pro,512gb,sprint,good,360.78
+Apple iPhone 11 Pro,512gb,sprint,poor,324.7
+Apple iPhone 11 Pro,512gb,sprint,faulty,108.23
+Apple iPhone 11 Pro,512gb,other,good,222.64
+Apple iPhone 11 Pro,512gb,other,poor,200.38
+Apple iPhone 11 Pro,512gb,other,faulty,66.79
+Apple iPhone 11 Pro Max,64gb,unlocked,good,528.0
+Apple iPhone 11 Pro Max,64gb,unlocked,poor,475.2
+Apple iPhone 11 Pro Max,64gb,unlocked,faulty,158.4
+Apple iPhone 11 Pro Max,64gb,verizon,good,528.0
+Apple iPhone 11 Pro Max,64gb,verizon,poor,475.2
+Apple iPhone 11 Pro Max,64gb,verizon,faulty,158.4
+Apple iPhone 11 Pro Max,64gb,AT&T,good,447.22
+Apple iPhone 11 Pro Max,64gb,AT&T,poor,402.49
+Apple iPhone 11 Pro Max,64gb,AT&T,faulty,134.16
+Apple iPhone 11 Pro Max,64gb,T-Mobile,good,408.14
+Apple iPhone 11 Pro Max,64gb,T-Mobile,poor,367.33
+Apple iPhone 11 Pro Max,64gb,T-Mobile,faulty,122.44
+Apple iPhone 11 Pro Max,64gb,sprint,good,376.46
+Apple iPhone 11 Pro Max,64gb,sprint,poor,338.82
+Apple iPhone 11 Pro Max,64gb,sprint,faulty,112.94
+Apple iPhone 11 Pro Max,64gb,other,good,232.32
+Apple iPhone 11 Pro Max,64gb,other,poor,209.09
+Apple iPhone 11 Pro Max,64gb,other,faulty,69.7
+Apple iPhone 11 Pro Max,256gb,unlocked,good,573.0
+Apple iPhone 11 Pro Max,256gb,unlocked,poor,515.7
+Apple iPhone 11 Pro Max,256gb,unlocked,faulty,171.9
+Apple iPhone 11 Pro Max,256gb,verizon,good,573.0
+Apple iPhone 11 Pro Max,256gb,verizon,poor,515.7
+Apple iPhone 11 Pro Max,256gb,verizon,faulty,171.9
+Apple iPhone 11 Pro Max,256gb,AT&T,good,485.33
+Apple iPhone 11 Pro Max,256gb,AT&T,poor,436.8
+Apple iPhone 11 Pro Max,256gb,AT&T,faulty,145.6
+Apple iPhone 11 Pro Max,256gb,T-Mobile,good,442.93
+Apple iPhone 11 Pro Max,256gb,T-Mobile,poor,398.64
+Apple iPhone 11 Pro Max,256gb,T-Mobile,faulty,132.88
+Apple iPhone 11 Pro Max,256gb,sprint,good,408.55
+Apple iPhone 11 Pro Max,256gb,sprint,poor,367.69
+Apple iPhone 11 Pro Max,256gb,sprint,faulty,122.56
+Apple iPhone 11 Pro Max,256gb,other,good,252.12
+Apple iPhone 11 Pro Max,256gb,other,poor,226.91
+Apple iPhone 11 Pro Max,256gb,other,faulty,75.64
+Apple iPhone 11 Pro Max,512gb,unlocked,good,596.0
+Apple iPhone 11 Pro Max,512gb,unlocked,poor,536.4
+Apple iPhone 11 Pro Max,512gb,unlocked,faulty,178.8
+Apple iPhone 11 Pro Max,512gb,verizon,good,596.0
+Apple iPhone 11 Pro Max,512gb,verizon,poor,536.4
+Apple iPhone 11 Pro Max,512gb,verizon,faulty,178.8
+Apple iPhone 11 Pro Max,512gb,AT&T,good,504.81
+Apple iPhone 11 Pro Max,512gb,AT&T,poor,454.33
+Apple iPhone 11 Pro Max,512gb,AT&T,faulty,151.44
+Apple iPhone 11 Pro Max,512gb,T-Mobile,good,460.71
+Apple iPhone 11 Pro Max,512gb,T-Mobile,poor,414.64
+Apple iPhone 11 Pro Max,512gb,T-Mobile,faulty,138.21
+Apple iPhone 11 Pro Max,512gb,sprint,good,424.95
+Apple iPhone 11 Pro Max,512gb,sprint,poor,382.45
+Apple iPhone 11 Pro Max,512gb,sprint,faulty,127.48
+Apple iPhone 11 Pro Max,512gb,other,good,262.24
+Apple iPhone 11 Pro Max,512gb,other,poor,236.02
+Apple iPhone 11 Pro Max,512gb,other,faulty,78.67
+Apple iPhone 12,64GB,unlocked,good,458.0
+Apple iPhone 12,64GB,unlocked,poor,412.2
+Apple iPhone 12,64GB,unlocked,faulty,137.4
+Apple iPhone 12,64GB,verizon,good,458.0
+Apple iPhone 12,64GB,verizon,poor,412.2
+Apple iPhone 12,64GB,verizon,faulty,137.4
+Apple iPhone 12,64GB,AT&T,good,387.93
+Apple iPhone 12,64GB,AT&T,poor,349.13
+Apple iPhone 12,64GB,AT&T,faulty,116.38
+Apple iPhone 12,64GB,T-Mobile,good,354.03
+Apple iPhone 12,64GB,T-Mobile,poor,318.63
+Apple iPhone 12,64GB,T-Mobile,faulty,106.21
+Apple iPhone 12,64GB,sprint,good,326.55
+Apple iPhone 12,64GB,sprint,poor,293.9
+Apple iPhone 12,64GB,sprint,faulty,97.97
+Apple iPhone 12,64GB,other,good,201.52
+Apple iPhone 12,64GB,other,poor,181.37
+Apple iPhone 12,64GB,other,faulty,60.46
+Apple iPhone 12,128GB,unlocked,good,516.0
+Apple iPhone 12,128GB,unlocked,poor,464.4
+Apple iPhone 12,128GB,unlocked,faulty,154.8
+Apple iPhone 12,128GB,verizon,good,516.0
+Apple iPhone 12,128GB,verizon,poor,464.4
+Apple iPhone 12,128GB,verizon,faulty,154.8
+Apple iPhone 12,128GB,AT&T,good,437.05
+Apple iPhone 12,128GB,AT&T,poor,393.35
+Apple iPhone 12,128GB,AT&T,faulty,131.12
+Apple iPhone 12,128GB,T-Mobile,good,398.87
+Apple iPhone 12,128GB,T-Mobile,poor,358.98
+Apple iPhone 12,128GB,T-Mobile,faulty,119.66
+Apple iPhone 12,128GB,sprint,good,367.91
+Apple iPhone 12,128GB,sprint,poor,331.12
+Apple iPhone 12,128GB,sprint,faulty,110.37
+Apple iPhone 12,128GB,other,good,227.04
+Apple iPhone 12,128GB,other,poor,204.34
+Apple iPhone 12,128GB,other,faulty,68.11
+Apple iPhone 12,256GB,unlocked,good,536.0
+Apple iPhone 12,256GB,unlocked,poor,482.4
+Apple iPhone 12,256GB,unlocked,faulty,160.8
+Apple iPhone 12,256GB,verizon,good,536.0
+Apple iPhone 12,256GB,verizon,poor,482.4
+Apple iPhone 12,256GB,verizon,faulty,160.8
+Apple iPhone 12,256GB,AT&T,good,453.99
+Apple iPhone 12,256GB,AT&T,poor,408.59
+Apple iPhone 12,256GB,AT&T,faulty,136.2
+Apple iPhone 12,256GB,T-Mobile,good,414.33
+Apple iPhone 12,256GB,T-Mobile,poor,372.9
+Apple iPhone 12,256GB,T-Mobile,faulty,124.3
+Apple iPhone 12,256GB,sprint,good,382.17
+Apple iPhone 12,256GB,sprint,poor,343.95
+Apple iPhone 12,256GB,sprint,faulty,114.65
+Apple iPhone 12,256GB,other,good,235.84
+Apple iPhone 12,256GB,other,poor,212.26
+Apple iPhone 12,256GB,other,faulty,70.75
+Apple iPhone 12 mini,64GB,unlocked,good,388.0
+Apple iPhone 12 mini,64GB,unlocked,poor,349.2
+Apple iPhone 12 mini,64GB,unlocked,faulty,116.4
+Apple iPhone 12 mini,64GB,verizon,good,388.0
+Apple iPhone 12 mini,64GB,verizon,poor,349.2
+Apple iPhone 12 mini,64GB,verizon,faulty,116.4
+Apple iPhone 12 mini,64GB,AT&T,good,328.64
+Apple iPhone 12 mini,64GB,AT&T,poor,295.77
+Apple iPhone 12 mini,64GB,AT&T,faulty,98.59
+Apple iPhone 12 mini,64GB,T-Mobile,good,299.92
+Apple iPhone 12 mini,64GB,T-Mobile,poor,269.93
+Apple iPhone 12 mini,64GB,T-Mobile,faulty,89.98
+Apple iPhone 12 mini,64GB,sprint,good,276.64
+Apple iPhone 12 mini,64GB,sprint,poor,248.98
+Apple iPhone 12 mini,64GB,sprint,faulty,82.99
+Apple iPhone 12 mini,64GB,other,good,170.72
+Apple iPhone 12 mini,64GB,other,poor,153.65
+Apple iPhone 12 mini,64GB,other,faulty,51.22
+Apple iPhone 12 mini,128GB,unlocked,good,421.0
+Apple iPhone 12 mini,128GB,unlocked,poor,378.9
+Apple iPhone 12 mini,128GB,unlocked,faulty,126.3
+Apple iPhone 12 mini,128GB,verizon,good,421.0
+Apple iPhone 12 mini,128GB,verizon,poor,378.9
+Apple iPhone 12 mini,128GB,verizon,faulty,126.3
+Apple iPhone 12 mini,128GB,AT&T,good,356.59
+Apple iPhone 12 mini,128GB,AT&T,poor,320.93
+Apple iPhone 12 mini,128GB,AT&T,faulty,106.98
+Apple iPhone 12 mini,128GB,T-Mobile,good,325.43
+Apple iPhone 12 mini,128GB,T-Mobile,poor,292.89
+Apple iPhone 12 mini,128GB,T-Mobile,faulty,97.63
+Apple iPhone 12 mini,128GB,sprint,good,300.17
+Apple iPhone 12 mini,128GB,sprint,poor,270.16
+Apple iPhone 12 mini,128GB,sprint,faulty,90.05
+Apple iPhone 12 mini,128GB,other,good,185.24
+Apple iPhone 12 mini,128GB,other,poor,166.72
+Apple iPhone 12 mini,128GB,other,faulty,55.57
+Apple iPhone 12 mini,256GB,unlocked,good,468.0
+Apple iPhone 12 mini,256GB,unlocked,poor,421.2
+Apple iPhone 12 mini,256GB,unlocked,faulty,140.4
+Apple iPhone 12 mini,256GB,verizon,good,468.0
+Apple iPhone 12 mini,256GB,verizon,poor,421.2
+Apple iPhone 12 mini,256GB,verizon,faulty,140.4
+Apple iPhone 12 mini,256GB,AT&T,good,396.4
+Apple iPhone 12 mini,256GB,AT&T,poor,356.76
+Apple iPhone 12 mini,256GB,AT&T,faulty,118.92
+Apple iPhone 12 mini,256GB,T-Mobile,good,361.76
+Apple iPhone 12 mini,256GB,T-Mobile,poor,325.59
+Apple iPhone 12 mini,256GB,T-Mobile,faulty,108.53
+Apple iPhone 12 mini,256GB,sprint,good,333.68
+Apple iPhone 12 mini,256GB,sprint,poor,300.32
+Apple iPhone 12 mini,256GB,sprint,faulty,100.11
+Apple iPhone 12 mini,256GB,other,good,205.92
+Apple iPhone 12 mini,256GB,other,poor,185.33
+Apple iPhone 12 mini,256GB,other,faulty,61.78
+Apple iPhone 12 Pro,128GB,unlocked,good,619.0
+Apple iPhone 12 Pro,128GB,unlocked,poor,557.1
+Apple iPhone 12 Pro,128GB,unlocked,faulty,185.7
+Apple iPhone 12 Pro,128GB,verizon,good,619.0
+Apple iPhone 12 Pro,128GB,verizon,poor,557.1
+Apple iPhone 12 Pro,128GB,verizon,faulty,185.7
+Apple iPhone 12 Pro,128GB,AT&T,good,524.29
+Apple iPhone 12 Pro,128GB,AT&T,poor,471.86
+Apple iPhone 12 Pro,128GB,AT&T,faulty,157.29
+Apple iPhone 12 Pro,128GB,T-Mobile,good,478.49
+Apple iPhone 12 Pro,128GB,T-Mobile,poor,430.64
+Apple iPhone 12 Pro,128GB,T-Mobile,faulty,143.55
+Apple iPhone 12 Pro,128GB,sprint,good,441.35
+Apple iPhone 12 Pro,128GB,sprint,poor,397.21
+Apple iPhone 12 Pro,128GB,sprint,faulty,132.4
+Apple iPhone 12 Pro,128GB,other,good,272.36
+Apple iPhone 12 Pro,128GB,other,poor,245.12
+Apple iPhone 12 Pro,128GB,other,faulty,81.71
+Apple iPhone 12 Pro,256GB,unlocked,good,687.0
+Apple iPhone 12 Pro,256GB,unlocked,poor,618.3
+Apple iPhone 12 Pro,256GB,unlocked,faulty,206.1
+Apple iPhone 12 Pro,256GB,verizon,good,687.0
+Apple iPhone 12 Pro,256GB,verizon,poor,618.3
+Apple iPhone 12 Pro,256GB,verizon,faulty,206.1
+Apple iPhone 12 Pro,256GB,AT&T,good,581.89
+Apple iPhone 12 Pro,256GB,AT&T,poor,523.7
+Apple iPhone 12 Pro,256GB,AT&T,faulty,174.57
+Apple iPhone 12 Pro,256GB,T-Mobile,good,531.05
+Apple iPhone 12 Pro,256GB,T-Mobile,poor,477.95
+Apple iPhone 12 Pro,256GB,T-Mobile,faulty,159.32
+Apple iPhone 12 Pro,256GB,sprint,good,489.83
+Apple iPhone 12 Pro,256GB,sprint,poor,440.85
+Apple iPhone 12 Pro,256GB,sprint,faulty,146.95
+Apple iPhone 12 Pro,256GB,other,good,302.28
+Apple iPhone 12 Pro,256GB,other,poor,272.05
+Apple iPhone 12 Pro,256GB,other,faulty,90.68
+Apple iPhone 12 Pro,512GB,unlocked,good,778.0
+Apple iPhone 12 Pro,512GB,unlocked,poor,700.2
+Apple iPhone 12 Pro,512GB,unlocked,faulty,233.4
+Apple iPhone 12 Pro,512GB,verizon,good,778.0
+Apple iPhone 12 Pro,512GB,verizon,poor,700.2
+Apple iPhone 12 Pro,512GB,verizon,faulty,233.4
+Apple iPhone 12 Pro,512GB,AT&T,good,658.97
+Apple iPhone 12 Pro,512GB,AT&T,poor,593.07
+Apple iPhone 12 Pro,512GB,AT&T,faulty,197.69
+Apple iPhone 12 Pro,512GB,T-Mobile,good,601.39
+Apple iPhone 12 Pro,512GB,T-Mobile,poor,541.25
+Apple iPhone 12 Pro,512GB,T-Mobile,faulty,180.42
+Apple iPhone 12 Pro,512GB,sprint,good,554.71
+Apple iPhone 12 Pro,512GB,sprint,poor,499.24
+Apple iPhone 12 Pro,512GB,sprint,faulty,166.41
+Apple iPhone 12 Pro,512GB,other,good,342.32
+Apple iPhone 12 Pro,512GB,other,poor,308.09
+Apple iPhone 12 Pro,512GB,other,faulty,102.7
+Apple iPhone 12 Pro Max,128GB,unlocked,good,746.0
+Apple iPhone 12 Pro Max,128GB,unlocked,poor,671.4
+Apple iPhone 12 Pro Max,128GB,unlocked,faulty,223.8
+Apple iPhone 12 Pro Max,128GB,verizon,good,746.0
+Apple iPhone 12 Pro Max,128GB,verizon,poor,671.4
+Apple iPhone 12 Pro Max,128GB,verizon,faulty,223.8
+Apple iPhone 12 Pro Max,128GB,AT&T,good,631.86
+Apple iPhone 12 Pro Max,128GB,AT&T,poor,568.68
+Apple iPhone 12 Pro Max,128GB,AT&T,faulty,189.56
+Apple iPhone 12 Pro Max,128GB,T-Mobile,good,576.66
+Apple iPhone 12 Pro Max,128GB,T-Mobile,poor,518.99
+Apple iPhone 12 Pro Max,128GB,T-Mobile,faulty,173.0
+Apple iPhone 12 Pro Max,128GB,sprint,good,531.9
+Apple iPhone 12 Pro Max,128GB,sprint,poor,478.71
+Apple iPhone 12 Pro Max,128GB,sprint,faulty,159.57
+Apple iPhone 12 Pro Max,128GB,other,good,328.24
+Apple iPhone 12 Pro Max,128GB,other,poor,295.42
+Apple iPhone 12 Pro Max,128GB,other,faulty,98.47
+Apple iPhone 12 Pro Max,256GB,unlocked,good,814.0
+Apple iPhone 12 Pro Max,256GB,unlocked,poor,732.6
+Apple iPhone 12 Pro Max,256GB,unlocked,faulty,244.2
+Apple iPhone 12 Pro Max,256GB,verizon,good,814.0
+Apple iPhone 12 Pro Max,256GB,verizon,poor,732.6
+Apple iPhone 12 Pro Max,256GB,verizon,faulty,244.2
+Apple iPhone 12 Pro Max,256GB,AT&T,good,689.46
+Apple iPhone 12 Pro Max,256GB,AT&T,poor,620.51
+Apple iPhone 12 Pro Max,256GB,AT&T,faulty,206.84
+Apple iPhone 12 Pro Max,256GB,T-Mobile,good,629.22
+Apple iPhone 12 Pro Max,256GB,T-Mobile,poor,566.3
+Apple iPhone 12 Pro Max,256GB,T-Mobile,faulty,188.77
+Apple iPhone 12 Pro Max,256GB,sprint,good,580.38
+Apple iPhone 12 Pro Max,256GB,sprint,poor,522.34
+Apple iPhone 12 Pro Max,256GB,sprint,faulty,174.11
+Apple iPhone 12 Pro Max,256GB,other,good,358.16
+Apple iPhone 12 Pro Max,256GB,other,poor,322.34
+Apple iPhone 12 Pro Max,256GB,other,faulty,107.45
+Apple iPhone 12 Pro Max,512GB,unlocked,good,857.0
+Apple iPhone 12 Pro Max,512GB,unlocked,poor,771.3
+Apple iPhone 12 Pro Max,512GB,unlocked,faulty,257.1
+Apple iPhone 12 Pro Max,512GB,verizon,good,857.0
+Apple iPhone 12 Pro Max,512GB,verizon,poor,771.3
+Apple iPhone 12 Pro Max,512GB,verizon,faulty,257.1
+Apple iPhone 12 Pro Max,512GB,AT&T,good,725.88
+Apple iPhone 12 Pro Max,512GB,AT&T,poor,653.29
+Apple iPhone 12 Pro Max,512GB,AT&T,faulty,217.76
+Apple iPhone 12 Pro Max,512GB,T-Mobile,good,662.46
+Apple iPhone 12 Pro Max,512GB,T-Mobile,poor,596.21
+Apple iPhone 12 Pro Max,512GB,T-Mobile,faulty,198.74
+Apple iPhone 12 Pro Max,512GB,sprint,good,611.04
+Apple iPhone 12 Pro Max,512GB,sprint,poor,549.94
+Apple iPhone 12 Pro Max,512GB,sprint,faulty,183.31
+Apple iPhone 12 Pro Max,512GB,other,good,377.08
+Apple iPhone 12 Pro Max,512GB,other,poor,339.37
+Apple iPhone 12 Pro Max,512GB,other,faulty,113.12

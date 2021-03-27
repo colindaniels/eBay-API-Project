@@ -1,0 +1,1241 @@
+model,storage,carrier,condition,price
+Apple iPhone 6,16,Unlocked,Like New,76.82
+Apple iPhone 6,16,Unlocked,Good,69.1
+Apple iPhone 6,16,Unlocked,Fair,67.6
+Apple iPhone 6,16,Unlocked,Broken,41.11
+Apple iPhone 6,16,Verizon,Like New,76.82
+Apple iPhone 6,16,Verizon,Good,69.1
+Apple iPhone 6,16,Verizon,Fair,67.6
+Apple iPhone 6,16,Verizon,Broken,41.01
+Apple iPhone 6,16,AT&T,Like New,76.02
+Apple iPhone 6,16,AT&T,Good,65.05
+Apple iPhone 6,16,AT&T,Fair,64.55
+Apple iPhone 6,16,AT&T,Broken,35.82
+Apple iPhone 6,16,T-Mobile,Like New,73.9
+Apple iPhone 6,16,T-Mobile,Good,68.19
+Apple iPhone 6,16,T-Mobile,Fair,67.8
+Apple iPhone 6,16,T-Mobile,Broken,36.49
+Apple iPhone 6,16,Sprint,Like New,73.99
+Apple iPhone 6,16,Sprint,Good,69.97
+Apple iPhone 6,16,Sprint,Fair,69.23
+Apple iPhone 6,16,Sprint,Broken,35.17
+Apple iPhone 6,32,Unlocked,Like New,99.12
+Apple iPhone 6,32,Unlocked,Good,82.05
+Apple iPhone 6,32,Unlocked,Fair,80.23
+Apple iPhone 6,32,Unlocked,Broken,52.65
+Apple iPhone 6,32,Verizon,Like New,99.12
+Apple iPhone 6,32,Verizon,Good,80.97
+Apple iPhone 6,32,Verizon,Fair,80.17
+Apple iPhone 6,32,Verizon,Broken,52.65
+Apple iPhone 6,32,AT&T,Like New,81.31
+Apple iPhone 6,32,AT&T,Good,77.56
+Apple iPhone 6,32,AT&T,Fair,76.68
+Apple iPhone 6,32,AT&T,Broken,48.64
+Apple iPhone 6,32,T-Mobile,Like New,81.31
+Apple iPhone 6,32,T-Mobile,Good,75.45
+Apple iPhone 6,32,T-Mobile,Fair,75.11
+Apple iPhone 6,32,T-Mobile,Broken,49.63
+Apple iPhone 6,32,Sprint,Like New,**NOT ENOUGH RESULTS**
+Apple iPhone 6,32,Sprint,Good,73.72
+Apple iPhone 6,32,Sprint,Fair,73.95
+Apple iPhone 6,32,Sprint,Broken,41.58
+Apple iPhone 6,64,Unlocked,Like New,88.23
+Apple iPhone 6,64,Unlocked,Good,77.77
+Apple iPhone 6,64,Unlocked,Fair,77.07
+Apple iPhone 6,64,Unlocked,Broken,49.71
+Apple iPhone 6,64,Verizon,Like New,88.23
+Apple iPhone 6,64,Verizon,Good,77.77
+Apple iPhone 6,64,Verizon,Fair,77.07
+Apple iPhone 6,64,Verizon,Broken,49.71
+Apple iPhone 6,64,AT&T,Like New,86.31
+Apple iPhone 6,64,AT&T,Good,76.88
+Apple iPhone 6,64,AT&T,Fair,75.83
+Apple iPhone 6,64,AT&T,Broken,45.05
+Apple iPhone 6,64,T-Mobile,Like New,87.25
+Apple iPhone 6,64,T-Mobile,Good,81.78
+Apple iPhone 6,64,T-Mobile,Fair,80.57
+Apple iPhone 6,64,T-Mobile,Broken,43.76
+Apple iPhone 6,64,Sprint,Like New,94.12
+Apple iPhone 6,64,Sprint,Good,83.07
+Apple iPhone 6,64,Sprint,Fair,81.68
+Apple iPhone 6,64,Sprint,Broken,36.76
+Apple iPhone 6,128,Unlocked,Like New,101.68
+Apple iPhone 6,128,Unlocked,Good,87.7
+Apple iPhone 6,128,Unlocked,Fair,87.02
+Apple iPhone 6,128,Unlocked,Broken,53.83
+Apple iPhone 6,128,Verizon,Like New,101.68
+Apple iPhone 6,128,Verizon,Good,87.7
+Apple iPhone 6,128,Verizon,Fair,87.02
+Apple iPhone 6,128,Verizon,Broken,52.77
+Apple iPhone 6,128,AT&T,Like New,99.69
+Apple iPhone 6,128,AT&T,Good,88.05
+Apple iPhone 6,128,AT&T,Fair,87.1
+Apple iPhone 6,128,AT&T,Broken,48.37
+Apple iPhone 6,128,T-Mobile,Like New,93.38
+Apple iPhone 6,128,T-Mobile,Good,88.66
+Apple iPhone 6,128,T-Mobile,Fair,88.06
+Apple iPhone 6,128,T-Mobile,Broken,47.22
+Apple iPhone 6,128,Sprint,Like New,96.02
+Apple iPhone 6,128,Sprint,Good,79.61
+Apple iPhone 6,128,Sprint,Fair,79.61
+Apple iPhone 6,128,Sprint,Broken,54.69
+Apple iPhone 6 Plus,16,Unlocked,Like New,118.51
+Apple iPhone 6 Plus,16,Unlocked,Good,106.42
+Apple iPhone 6 Plus,16,Unlocked,Fair,105.98
+Apple iPhone 6 Plus,16,Unlocked,Broken,64.37
+Apple iPhone 6 Plus,16,Verizon,Like New,118.51
+Apple iPhone 6 Plus,16,Verizon,Good,106.39
+Apple iPhone 6 Plus,16,Verizon,Fair,105.98
+Apple iPhone 6 Plus,16,Verizon,Broken,64.3
+Apple iPhone 6 Plus,16,AT&T,Like New,112.99
+Apple iPhone 6 Plus,16,AT&T,Good,106.0
+Apple iPhone 6 Plus,16,AT&T,Fair,105.63
+Apple iPhone 6 Plus,16,AT&T,Broken,61.5
+Apple iPhone 6 Plus,16,T-Mobile,Like New,114.28
+Apple iPhone 6 Plus,16,T-Mobile,Good,106.75
+Apple iPhone 6 Plus,16,T-Mobile,Fair,106.03
+Apple iPhone 6 Plus,16,T-Mobile,Broken,60.27
+Apple iPhone 6 Plus,16,Sprint,Like New,113.61
+Apple iPhone 6 Plus,16,Sprint,Good,103.58
+Apple iPhone 6 Plus,16,Sprint,Fair,103.58
+Apple iPhone 6 Plus,16,Sprint,Broken,57.25
+Apple iPhone 6 Plus,64,Unlocked,Like New,129.59
+Apple iPhone 6 Plus,64,Unlocked,Good,124.12
+Apple iPhone 6 Plus,64,Unlocked,Fair,123.49
+Apple iPhone 6 Plus,64,Unlocked,Broken,80.91
+Apple iPhone 6 Plus,64,Verizon,Like New,129.59
+Apple iPhone 6 Plus,64,Verizon,Good,124.12
+Apple iPhone 6 Plus,64,Verizon,Fair,123.59
+Apple iPhone 6 Plus,64,Verizon,Broken,80.91
+Apple iPhone 6 Plus,64,AT&T,Like New,132.1
+Apple iPhone 6 Plus,64,AT&T,Good,119.54
+Apple iPhone 6 Plus,64,AT&T,Fair,119.37
+Apple iPhone 6 Plus,64,AT&T,Broken,74.18
+Apple iPhone 6 Plus,64,T-Mobile,Like New,134.72
+Apple iPhone 6 Plus,64,T-Mobile,Good,124.04
+Apple iPhone 6 Plus,64,T-Mobile,Fair,122.54
+Apple iPhone 6 Plus,64,T-Mobile,Broken,77.02
+Apple iPhone 6 Plus,64,Sprint,Like New,125.47
+Apple iPhone 6 Plus,64,Sprint,Good,125.35
+Apple iPhone 6 Plus,64,Sprint,Fair,120.17
+Apple iPhone 6 Plus,64,Sprint,Broken,62.2
+Apple iPhone 6 Plus,128,Unlocked,Like New,159.65
+Apple iPhone 6 Plus,128,Unlocked,Good,145.57
+Apple iPhone 6 Plus,128,Unlocked,Fair,144.27
+Apple iPhone 6 Plus,128,Unlocked,Broken,86.44
+Apple iPhone 6 Plus,128,Verizon,Like New,159.65
+Apple iPhone 6 Plus,128,Verizon,Good,145.57
+Apple iPhone 6 Plus,128,Verizon,Fair,144.27
+Apple iPhone 6 Plus,128,Verizon,Broken,86.44
+Apple iPhone 6 Plus,128,AT&T,Like New,171.24
+Apple iPhone 6 Plus,128,AT&T,Good,138.62
+Apple iPhone 6 Plus,128,AT&T,Fair,137.5
+Apple iPhone 6 Plus,128,AT&T,Broken,87.33
+Apple iPhone 6 Plus,128,T-Mobile,Like New,164.97
+Apple iPhone 6 Plus,128,T-Mobile,Good,143.91
+Apple iPhone 6 Plus,128,T-Mobile,Fair,144.86
+Apple iPhone 6 Plus,128,T-Mobile,Broken,86.08
+Apple iPhone 6 Plus,128,Sprint,Like New,**NOT ENOUGH RESULTS**
+Apple iPhone 6 Plus,128,Sprint,Good,113.8
+Apple iPhone 6 Plus,128,Sprint,Fair,113.8
+Apple iPhone 6 Plus,128,Sprint,Broken,89.94
+Apple iPhone 6s,16,Unlocked,Like New,92.84
+Apple iPhone 6s,16,Unlocked,Good,82.67
+Apple iPhone 6s,16,Unlocked,Fair,82.14
+Apple iPhone 6s,16,Unlocked,Broken,45.54
+Apple iPhone 6s,16,Verizon,Like New,92.84
+Apple iPhone 6s,16,Verizon,Good,82.54
+Apple iPhone 6s,16,Verizon,Fair,82.39
+Apple iPhone 6s,16,Verizon,Broken,45.92
+Apple iPhone 6s,16,AT&T,Like New,84.6
+Apple iPhone 6s,16,AT&T,Good,81.92
+Apple iPhone 6s,16,AT&T,Fair,79.85
+Apple iPhone 6s,16,AT&T,Broken,45.11
+Apple iPhone 6s,16,T-Mobile,Like New,86.07
+Apple iPhone 6s,16,T-Mobile,Good,83.01
+Apple iPhone 6s,16,T-Mobile,Fair,82.29
+Apple iPhone 6s,16,T-Mobile,Broken,42.96
+Apple iPhone 6s,16,Sprint,Like New,88.51
+Apple iPhone 6s,16,Sprint,Good,82.21
+Apple iPhone 6s,16,Sprint,Fair,80.31
+Apple iPhone 6s,16,Sprint,Broken,43.72
+Apple iPhone 6s,32,Unlocked,Like New,97.35
+Apple iPhone 6s,32,Unlocked,Good,86.49
+Apple iPhone 6s,32,Unlocked,Fair,85.92
+Apple iPhone 6s,32,Unlocked,Broken,52.35
+Apple iPhone 6s,32,Verizon,Like New,97.35
+Apple iPhone 6s,32,Verizon,Good,86.55
+Apple iPhone 6s,32,Verizon,Fair,85.81
+Apple iPhone 6s,32,Verizon,Broken,51.83
+Apple iPhone 6s,32,AT&T,Like New,94.01
+Apple iPhone 6s,32,AT&T,Good,84.21
+Apple iPhone 6s,32,AT&T,Fair,83.3
+Apple iPhone 6s,32,AT&T,Broken,51.67
+Apple iPhone 6s,32,T-Mobile,Like New,95.57
+Apple iPhone 6s,32,T-Mobile,Good,87.84
+Apple iPhone 6s,32,T-Mobile,Fair,87.12
+Apple iPhone 6s,32,T-Mobile,Broken,52.19
+Apple iPhone 6s,32,Sprint,Like New,95.83
+Apple iPhone 6s,32,Sprint,Good,87.36
+Apple iPhone 6s,32,Sprint,Fair,87.02
+Apple iPhone 6s,32,Sprint,Broken,52.65
+Apple iPhone 6s,64,Unlocked,Like New,101.33
+Apple iPhone 6s,64,Unlocked,Good,98.34
+Apple iPhone 6s,64,Unlocked,Fair,97.46
+Apple iPhone 6s,64,Unlocked,Broken,61.84
+Apple iPhone 6s,64,Verizon,Like New,101.33
+Apple iPhone 6s,64,Verizon,Good,98.24
+Apple iPhone 6s,64,Verizon,Fair,97.52
+Apple iPhone 6s,64,Verizon,Broken,61.84
+Apple iPhone 6s,64,AT&T,Like New,98.95
+Apple iPhone 6s,64,AT&T,Good,96.43
+Apple iPhone 6s,64,AT&T,Fair,95.54
+Apple iPhone 6s,64,AT&T,Broken,59.84
+Apple iPhone 6s,64,T-Mobile,Like New,99.35
+Apple iPhone 6s,64,T-Mobile,Good,96.53
+Apple iPhone 6s,64,T-Mobile,Fair,95.7
+Apple iPhone 6s,64,T-Mobile,Broken,60.91
+Apple iPhone 6s,64,Sprint,Like New,100.23
+Apple iPhone 6s,64,Sprint,Good,97.1
+Apple iPhone 6s,64,Sprint,Fair,96.0
+Apple iPhone 6s,64,Sprint,Broken,62.78
+Apple iPhone 6s,128,Unlocked,Like New,118.19
+Apple iPhone 6s,128,Unlocked,Good,113.62
+Apple iPhone 6s,128,Unlocked,Fair,111.14
+Apple iPhone 6s,128,Unlocked,Broken,63.96
+Apple iPhone 6s,128,Verizon,Like New,118.19
+Apple iPhone 6s,128,Verizon,Good,113.62
+Apple iPhone 6s,128,Verizon,Fair,111.05
+Apple iPhone 6s,128,Verizon,Broken,63.56
+Apple iPhone 6s,128,AT&T,Like New,113.4
+Apple iPhone 6s,128,AT&T,Good,110.53
+Apple iPhone 6s,128,AT&T,Fair,109.18
+Apple iPhone 6s,128,AT&T,Broken,62.2
+Apple iPhone 6s,128,T-Mobile,Like New,113.4
+Apple iPhone 6s,128,T-Mobile,Good,110.68
+Apple iPhone 6s,128,T-Mobile,Fair,110.91
+Apple iPhone 6s,128,T-Mobile,Broken,59.39
+Apple iPhone 6s,128,Sprint,Like New,119.5
+Apple iPhone 6s,128,Sprint,Good,111.49
+Apple iPhone 6s,128,Sprint,Fair,111.72
+Apple iPhone 6s,128,Sprint,Broken,61.4
+Apple iPhone 6s Plus,16,Unlocked,Like New,131.31
+Apple iPhone 6s Plus,16,Unlocked,Good,121.61
+Apple iPhone 6s Plus,16,Unlocked,Fair,120.52
+Apple iPhone 6s Plus,16,Unlocked,Broken,70.46
+Apple iPhone 6s Plus,16,Verizon,Like New,131.31
+Apple iPhone 6s Plus,16,Verizon,Good,121.61
+Apple iPhone 6s Plus,16,Verizon,Fair,120.52
+Apple iPhone 6s Plus,16,Verizon,Broken,70.46
+Apple iPhone 6s Plus,16,AT&T,Like New,137.38
+Apple iPhone 6s Plus,16,AT&T,Good,118.5
+Apple iPhone 6s Plus,16,AT&T,Fair,117.27
+Apple iPhone 6s Plus,16,AT&T,Broken,69.38
+Apple iPhone 6s Plus,16,T-Mobile,Like New,130.88
+Apple iPhone 6s Plus,16,T-Mobile,Good,119.06
+Apple iPhone 6s Plus,16,T-Mobile,Fair,118.12
+Apple iPhone 6s Plus,16,T-Mobile,Broken,69.14
+Apple iPhone 6s Plus,16,Sprint,Like New,124.44
+Apple iPhone 6s Plus,16,Sprint,Good,118.34
+Apple iPhone 6s Plus,16,Sprint,Fair,117.62
+Apple iPhone 6s Plus,16,Sprint,Broken,68.67
+Apple iPhone 6s Plus,32,Unlocked,Like New,144.69
+Apple iPhone 6s Plus,32,Unlocked,Good,134.27
+Apple iPhone 6s Plus,32,Unlocked,Fair,132.24
+Apple iPhone 6s Plus,32,Unlocked,Broken,76.94
+Apple iPhone 6s Plus,32,Verizon,Like New,144.69
+Apple iPhone 6s Plus,32,Verizon,Good,134.27
+Apple iPhone 6s Plus,32,Verizon,Fair,132.24
+Apple iPhone 6s Plus,32,Verizon,Broken,76.43
+Apple iPhone 6s Plus,32,AT&T,Like New,141.61
+Apple iPhone 6s Plus,32,AT&T,Good,128.72
+Apple iPhone 6s Plus,32,AT&T,Fair,127.97
+Apple iPhone 6s Plus,32,AT&T,Broken,74.09
+Apple iPhone 6s Plus,32,T-Mobile,Like New,141.61
+Apple iPhone 6s Plus,32,T-Mobile,Good,130.76
+Apple iPhone 6s Plus,32,T-Mobile,Fair,129.97
+Apple iPhone 6s Plus,32,T-Mobile,Broken,77.62
+Apple iPhone 6s Plus,32,Sprint,Like New,141.61
+Apple iPhone 6s Plus,32,Sprint,Good,131.06
+Apple iPhone 6s Plus,32,Sprint,Fair,130.46
+Apple iPhone 6s Plus,32,Sprint,Broken,75.28
+Apple iPhone 6s Plus,64,Unlocked,Like New,151.05
+Apple iPhone 6s Plus,64,Unlocked,Good,141.19
+Apple iPhone 6s Plus,64,Unlocked,Fair,139.76
+Apple iPhone 6s Plus,64,Unlocked,Broken,94.92
+Apple iPhone 6s Plus,64,Verizon,Like New,151.05
+Apple iPhone 6s Plus,64,Verizon,Good,140.93
+Apple iPhone 6s Plus,64,Verizon,Fair,140.06
+Apple iPhone 6s Plus,64,Verizon,Broken,94.92
+Apple iPhone 6s Plus,64,AT&T,Like New,145.52
+Apple iPhone 6s Plus,64,AT&T,Good,138.25
+Apple iPhone 6s Plus,64,AT&T,Fair,137.46
+Apple iPhone 6s Plus,64,AT&T,Broken,93.45
+Apple iPhone 6s Plus,64,T-Mobile,Like New,146.83
+Apple iPhone 6s Plus,64,T-Mobile,Good,139.54
+Apple iPhone 6s Plus,64,T-Mobile,Fair,138.48
+Apple iPhone 6s Plus,64,T-Mobile,Broken,94.27
+Apple iPhone 6s Plus,64,Sprint,Like New,144.03
+Apple iPhone 6s Plus,64,Sprint,Good,139.51
+Apple iPhone 6s Plus,64,Sprint,Fair,138.52
+Apple iPhone 6s Plus,64,Sprint,Broken,98.11
+Apple iPhone 6s Plus,128,Unlocked,Like New,175.88
+Apple iPhone 6s Plus,128,Unlocked,Good,159.22
+Apple iPhone 6s Plus,128,Unlocked,Fair,157.7
+Apple iPhone 6s Plus,128,Unlocked,Broken,112.28
+Apple iPhone 6s Plus,128,Verizon,Like New,175.88
+Apple iPhone 6s Plus,128,Verizon,Good,159.22
+Apple iPhone 6s Plus,128,Verizon,Fair,157.65
+Apple iPhone 6s Plus,128,Verizon,Broken,112.28
+Apple iPhone 6s Plus,128,AT&T,Like New,168.76
+Apple iPhone 6s Plus,128,AT&T,Good,153.51
+Apple iPhone 6s Plus,128,AT&T,Fair,152.62
+Apple iPhone 6s Plus,128,AT&T,Broken,112.48
+Apple iPhone 6s Plus,128,T-Mobile,Like New,162.36
+Apple iPhone 6s Plus,128,T-Mobile,Good,161.46
+Apple iPhone 6s Plus,128,T-Mobile,Fair,159.25
+Apple iPhone 6s Plus,128,T-Mobile,Broken,118.94
+Apple iPhone 6s Plus,128,Sprint,Like New,162.36
+Apple iPhone 6s Plus,128,Sprint,Good,160.28
+Apple iPhone 6s Plus,128,Sprint,Fair,158.1
+Apple iPhone 6s Plus,128,Sprint,Broken,117.83
+Apple iPhone 7,32,Unlocked,Like New,137.28
+Apple iPhone 7,32,Unlocked,Good,120.21
+Apple iPhone 7,32,Unlocked,Fair,117.11
+Apple iPhone 7,32,Unlocked,Broken,72.01
+Apple iPhone 7,32,Verizon,Like New,137.28
+Apple iPhone 7,32,Verizon,Good,120.04
+Apple iPhone 7,32,Verizon,Fair,117.58
+Apple iPhone 7,32,Verizon,Broken,71.89
+Apple iPhone 7,32,AT&T,Like New,131.86
+Apple iPhone 7,32,AT&T,Good,114.77
+Apple iPhone 7,32,AT&T,Fair,111.8
+Apple iPhone 7,32,AT&T,Broken,71.76
+Apple iPhone 7,32,T-Mobile,Like New,133.59
+Apple iPhone 7,32,T-Mobile,Good,115.25
+Apple iPhone 7,32,T-Mobile,Fair,113.54
+Apple iPhone 7,32,T-Mobile,Broken,70.59
+Apple iPhone 7,32,Sprint,Like New,133.51
+Apple iPhone 7,32,Sprint,Good,117.33
+Apple iPhone 7,32,Sprint,Fair,115.42
+Apple iPhone 7,32,Sprint,Broken,67.9
+Apple iPhone 7,128,Unlocked,Like New,150.51
+Apple iPhone 7,128,Unlocked,Good,135.84
+Apple iPhone 7,128,Unlocked,Fair,134.53
+Apple iPhone 7,128,Unlocked,Broken,88.77
+Apple iPhone 7,128,Verizon,Like New,150.51
+Apple iPhone 7,128,Verizon,Good,135.88
+Apple iPhone 7,128,Verizon,Fair,134.58
+Apple iPhone 7,128,Verizon,Broken,86.37
+Apple iPhone 7,128,AT&T,Like New,145.4
+Apple iPhone 7,128,AT&T,Good,133.06
+Apple iPhone 7,128,AT&T,Fair,131.82
+Apple iPhone 7,128,AT&T,Broken,86.86
+Apple iPhone 7,128,T-Mobile,Like New,157.68
+Apple iPhone 7,128,T-Mobile,Good,135.86
+Apple iPhone 7,128,T-Mobile,Fair,134.69
+Apple iPhone 7,128,T-Mobile,Broken,81.27
+Apple iPhone 7,128,Sprint,Like New,148.75
+Apple iPhone 7,128,Sprint,Good,138.39
+Apple iPhone 7,128,Sprint,Fair,136.34
+Apple iPhone 7,128,Sprint,Broken,81.8
+Apple iPhone 7,256,Unlocked,Like New,182.5
+Apple iPhone 7,256,Unlocked,Good,156.8
+Apple iPhone 7,256,Unlocked,Fair,153.96
+Apple iPhone 7,256,Unlocked,Broken,101.43
+Apple iPhone 7,256,Verizon,Like New,182.5
+Apple iPhone 7,256,Verizon,Good,156.8
+Apple iPhone 7,256,Verizon,Fair,153.96
+Apple iPhone 7,256,Verizon,Broken,101.43
+Apple iPhone 7,256,AT&T,Like New,175.0
+Apple iPhone 7,256,AT&T,Good,149.84
+Apple iPhone 7,256,AT&T,Fair,147.96
+Apple iPhone 7,256,AT&T,Broken,100.07
+Apple iPhone 7,256,T-Mobile,Like New,182.5
+Apple iPhone 7,256,T-Mobile,Good,150.64
+Apple iPhone 7,256,T-Mobile,Fair,150.24
+Apple iPhone 7,256,T-Mobile,Broken,86.23
+Apple iPhone 7,256,Sprint,Like New,132.5
+Apple iPhone 7,256,Sprint,Good,148.42
+Apple iPhone 7,256,Sprint,Fair,148.45
+Apple iPhone 7,256,Sprint,Broken,89.84
+Apple iPhone 7 Plus,32,Unlocked,Like New,207.78
+Apple iPhone 7 Plus,32,Unlocked,Good,193.66
+Apple iPhone 7 Plus,32,Unlocked,Fair,193.1
+Apple iPhone 7 Plus,32,Unlocked,Broken,117.07
+Apple iPhone 7 Plus,32,Verizon,Like New,207.78
+Apple iPhone 7 Plus,32,Verizon,Good,193.66
+Apple iPhone 7 Plus,32,Verizon,Fair,193.1
+Apple iPhone 7 Plus,32,Verizon,Broken,117.31
+Apple iPhone 7 Plus,32,AT&T,Like New,204.24
+Apple iPhone 7 Plus,32,AT&T,Good,189.03
+Apple iPhone 7 Plus,32,AT&T,Fair,187.7
+Apple iPhone 7 Plus,32,AT&T,Broken,111.76
+Apple iPhone 7 Plus,32,T-Mobile,Like New,205.92
+Apple iPhone 7 Plus,32,T-Mobile,Good,189.9
+Apple iPhone 7 Plus,32,T-Mobile,Fair,189.66
+Apple iPhone 7 Plus,32,T-Mobile,Broken,111.2
+Apple iPhone 7 Plus,32,Sprint,Like New,202.41
+Apple iPhone 7 Plus,32,Sprint,Good,188.98
+Apple iPhone 7 Plus,32,Sprint,Fair,188.93
+Apple iPhone 7 Plus,32,Sprint,Broken,115.73
+Apple iPhone 7 Plus,128,Unlocked,Like New,228.61
+Apple iPhone 7 Plus,128,Unlocked,Good,223.49
+Apple iPhone 7 Plus,128,Unlocked,Fair,220.41
+Apple iPhone 7 Plus,128,Unlocked,Broken,151.07
+Apple iPhone 7 Plus,128,Verizon,Like New,228.61
+Apple iPhone 7 Plus,128,Verizon,Good,223.39
+Apple iPhone 7 Plus,128,Verizon,Fair,220.41
+Apple iPhone 7 Plus,128,Verizon,Broken,152.32
+Apple iPhone 7 Plus,128,AT&T,Like New,228.75
+Apple iPhone 7 Plus,128,AT&T,Good,213.43
+Apple iPhone 7 Plus,128,AT&T,Fair,212.8
+Apple iPhone 7 Plus,128,AT&T,Broken,142.56
+Apple iPhone 7 Plus,128,T-Mobile,Like New,230.57
+Apple iPhone 7 Plus,128,T-Mobile,Good,220.48
+Apple iPhone 7 Plus,128,T-Mobile,Fair,218.14
+Apple iPhone 7 Plus,128,T-Mobile,Broken,146.13
+Apple iPhone 7 Plus,128,Sprint,Like New,227.66
+Apple iPhone 7 Plus,128,Sprint,Good,215.36
+Apple iPhone 7 Plus,128,Sprint,Fair,213.59
+Apple iPhone 7 Plus,128,Sprint,Broken,137.61
+Apple iPhone 7 Plus,256,Unlocked,Like New,250.0
+Apple iPhone 7 Plus,256,Unlocked,Good,235.81
+Apple iPhone 7 Plus,256,Unlocked,Fair,233.74
+Apple iPhone 7 Plus,256,Unlocked,Broken,168.05
+Apple iPhone 7 Plus,256,Verizon,Like New,250.0
+Apple iPhone 7 Plus,256,Verizon,Good,235.81
+Apple iPhone 7 Plus,256,Verizon,Fair,233.74
+Apple iPhone 7 Plus,256,Verizon,Broken,168.05
+Apple iPhone 7 Plus,256,AT&T,Like New,247.93
+Apple iPhone 7 Plus,256,AT&T,Good,231.28
+Apple iPhone 7 Plus,256,AT&T,Fair,230.33
+Apple iPhone 7 Plus,256,AT&T,Broken,156.69
+Apple iPhone 7 Plus,256,T-Mobile,Like New,244.64
+Apple iPhone 7 Plus,256,T-Mobile,Good,232.3
+Apple iPhone 7 Plus,256,T-Mobile,Fair,230.76
+Apple iPhone 7 Plus,256,T-Mobile,Broken,160.69
+Apple iPhone 7 Plus,256,Sprint,Like New,246.0
+Apple iPhone 7 Plus,256,Sprint,Good,227.6
+Apple iPhone 7 Plus,256,Sprint,Fair,224.79
+Apple iPhone 7 Plus,256,Sprint,Broken,136.99
+Apple iPhone 8,64,Unlocked,Like New,206.84
+Apple iPhone 8,64,Unlocked,Good,174.18
+Apple iPhone 8,64,Unlocked,Fair,170.8
+Apple iPhone 8,64,Unlocked,Broken,128.25
+Apple iPhone 8,64,Verizon,Like New,206.36
+Apple iPhone 8,64,Verizon,Good,174.01
+Apple iPhone 8,64,Verizon,Fair,170.99
+Apple iPhone 8,64,Verizon,Broken,128.25
+Apple iPhone 8,64,AT&T,Like New,205.44
+Apple iPhone 8,64,AT&T,Good,172.01
+Apple iPhone 8,64,AT&T,Fair,169.62
+Apple iPhone 8,64,AT&T,Broken,124.27
+Apple iPhone 8,64,T-Mobile,Like New,208.01
+Apple iPhone 8,64,T-Mobile,Good,174.22
+Apple iPhone 8,64,T-Mobile,Fair,170.74
+Apple iPhone 8,64,T-Mobile,Broken,125.36
+Apple iPhone 8,64,Sprint,Like New,202.49
+Apple iPhone 8,64,Sprint,Good,176.96
+Apple iPhone 8,64,Sprint,Fair,172.61
+Apple iPhone 8,64,Sprint,Broken,125.42
+Apple iPhone 8,128,Unlocked,Like New,**NOT ENOUGH RESULTS**
+Apple iPhone 8,128,Unlocked,Good,239.69
+Apple iPhone 8,128,Unlocked,Fair,231.46
+Apple iPhone 8,128,Unlocked,Broken,**NOT ENOUGH RESULTS**
+Apple iPhone 8,128,Verizon,Like New,**NOT ENOUGH RESULTS**
+Apple iPhone 8,128,Verizon,Good,239.69
+Apple iPhone 8,128,Verizon,Fair,231.46
+Apple iPhone 8,128,Verizon,Broken,**NOT ENOUGH RESULTS**
+Apple iPhone 8,128,AT&T,Like New,**NOT ENOUGH RESULTS**
+Apple iPhone 8,128,AT&T,Good,220.57
+Apple iPhone 8,128,AT&T,Fair,215.18
+Apple iPhone 8,128,AT&T,Broken,129.99
+Apple iPhone 8,128,T-Mobile,Like New,**NOT ENOUGH RESULTS**
+Apple iPhone 8,128,T-Mobile,Good,238.7
+Apple iPhone 8,128,T-Mobile,Fair,228.08
+Apple iPhone 8,128,T-Mobile,Broken,**NOT ENOUGH RESULTS**
+Apple iPhone 8,128,Sprint,Like New,**NOT ENOUGH RESULTS**
+Apple iPhone 8,128,Sprint,Good,241.66
+Apple iPhone 8,128,Sprint,Fair,231.66
+Apple iPhone 8,128,Sprint,Broken,**NOT ENOUGH RESULTS**
+Apple iPhone 8,256,Unlocked,Like New,249.05
+Apple iPhone 8,256,Unlocked,Good,236.23
+Apple iPhone 8,256,Unlocked,Fair,232.84
+Apple iPhone 8,256,Unlocked,Broken,164.28
+Apple iPhone 8,256,Verizon,Like New,248.5
+Apple iPhone 8,256,Verizon,Good,236.09
+Apple iPhone 8,256,Verizon,Fair,232.84
+Apple iPhone 8,256,Verizon,Broken,164.28
+Apple iPhone 8,256,AT&T,Like New,239.0
+Apple iPhone 8,256,AT&T,Good,226.72
+Apple iPhone 8,256,AT&T,Fair,223.88
+Apple iPhone 8,256,AT&T,Broken,152.45
+Apple iPhone 8,256,T-Mobile,Like New,242.83
+Apple iPhone 8,256,T-Mobile,Good,231.21
+Apple iPhone 8,256,T-Mobile,Fair,227.39
+Apple iPhone 8,256,T-Mobile,Broken,162.1
+Apple iPhone 8,256,Sprint,Like New,241.8
+Apple iPhone 8,256,Sprint,Good,240.71
+Apple iPhone 8,256,Sprint,Fair,238.64
+Apple iPhone 8,256,Sprint,Broken,164.85
+Apple iPhone 8 Plus,64,Unlocked,Like New,283.5
+Apple iPhone 8 Plus,64,Unlocked,Good,262.42
+Apple iPhone 8 Plus,64,Unlocked,Fair,259.42
+Apple iPhone 8 Plus,64,Unlocked,Broken,187.81
+Apple iPhone 8 Plus,64,Verizon,Like New,283.5
+Apple iPhone 8 Plus,64,Verizon,Good,262.57
+Apple iPhone 8 Plus,64,Verizon,Fair,259.16
+Apple iPhone 8 Plus,64,Verizon,Broken,188.32
+Apple iPhone 8 Plus,64,AT&T,Like New,283.78
+Apple iPhone 8 Plus,64,AT&T,Good,260.72
+Apple iPhone 8 Plus,64,AT&T,Fair,257.22
+Apple iPhone 8 Plus,64,AT&T,Broken,183.22
+Apple iPhone 8 Plus,64,T-Mobile,Like New,281.37
+Apple iPhone 8 Plus,64,T-Mobile,Good,257.08
+Apple iPhone 8 Plus,64,T-Mobile,Fair,254.29
+Apple iPhone 8 Plus,64,T-Mobile,Broken,175.49
+Apple iPhone 8 Plus,64,Sprint,Like New,288.03
+Apple iPhone 8 Plus,64,Sprint,Good,259.67
+Apple iPhone 8 Plus,64,Sprint,Fair,257.26
+Apple iPhone 8 Plus,64,Sprint,Broken,179.62
+Apple iPhone 8 Plus,128,Unlocked,Like New,323.59
+Apple iPhone 8 Plus,128,Unlocked,Good,312.99
+Apple iPhone 8 Plus,128,Unlocked,Fair,312.99
+Apple iPhone 8 Plus,128,Unlocked,Broken,247.24
+Apple iPhone 8 Plus,128,Verizon,Like New,323.59
+Apple iPhone 8 Plus,128,Verizon,Good,312.99
+Apple iPhone 8 Plus,128,Verizon,Fair,312.99
+Apple iPhone 8 Plus,128,Verizon,Broken,247.24
+Apple iPhone 8 Plus,128,AT&T,Like New,307.72
+Apple iPhone 8 Plus,128,AT&T,Good,310.43
+Apple iPhone 8 Plus,128,AT&T,Fair,310.43
+Apple iPhone 8 Plus,128,AT&T,Broken,176.09
+Apple iPhone 8 Plus,128,T-Mobile,Like New,315.97
+Apple iPhone 8 Plus,128,T-Mobile,Good,318.7
+Apple iPhone 8 Plus,128,T-Mobile,Fair,318.7
+Apple iPhone 8 Plus,128,T-Mobile,Broken,172.32
+Apple iPhone 8 Plus,128,Sprint,Like New,**NOT ENOUGH RESULTS**
+Apple iPhone 8 Plus,128,Sprint,Good,307.12
+Apple iPhone 8 Plus,128,Sprint,Fair,307.12
+Apple iPhone 8 Plus,128,Sprint,Broken,196.22
+Apple iPhone 8 Plus,256,Unlocked,Like New,337.96
+Apple iPhone 8 Plus,256,Unlocked,Good,312.1
+Apple iPhone 8 Plus,256,Unlocked,Fair,305.52
+Apple iPhone 8 Plus,256,Unlocked,Broken,230.67
+Apple iPhone 8 Plus,256,Verizon,Like New,337.96
+Apple iPhone 8 Plus,256,Verizon,Good,313.42
+Apple iPhone 8 Plus,256,Verizon,Fair,306.14
+Apple iPhone 8 Plus,256,Verizon,Broken,230.67
+Apple iPhone 8 Plus,256,AT&T,Like New,325.2
+Apple iPhone 8 Plus,256,AT&T,Good,304.52
+Apple iPhone 8 Plus,256,AT&T,Fair,299.26
+Apple iPhone 8 Plus,256,AT&T,Broken,210.33
+Apple iPhone 8 Plus,256,T-Mobile,Like New,332.29
+Apple iPhone 8 Plus,256,T-Mobile,Good,314.87
+Apple iPhone 8 Plus,256,T-Mobile,Fair,311.88
+Apple iPhone 8 Plus,256,T-Mobile,Broken,204.48
+Apple iPhone 8 Plus,256,Sprint,Like New,308.34
+Apple iPhone 8 Plus,256,Sprint,Good,313.47
+Apple iPhone 8 Plus,256,Sprint,Fair,312.02
+Apple iPhone 8 Plus,256,Sprint,Broken,206.9
+Apple iPhone SE (2nd Generation),64,Unlocked,Like New,297.26
+Apple iPhone SE (2nd Generation),64,Unlocked,Good,279.47
+Apple iPhone SE (2nd Generation),64,Unlocked,Fair,278.2
+Apple iPhone SE (2nd Generation),64,Unlocked,Broken,183.73
+Apple iPhone SE (2nd Generation),64,Verizon,Like New,297.26
+Apple iPhone SE (2nd Generation),64,Verizon,Good,279.48
+Apple iPhone SE (2nd Generation),64,Verizon,Fair,277.49
+Apple iPhone SE (2nd Generation),64,Verizon,Broken,183.73
+Apple iPhone SE (2nd Generation),64,AT&T,Like New,280.97
+Apple iPhone SE (2nd Generation),64,AT&T,Good,261.41
+Apple iPhone SE (2nd Generation),64,AT&T,Fair,262.82
+Apple iPhone SE (2nd Generation),64,AT&T,Broken,167.65
+Apple iPhone SE (2nd Generation),64,T-Mobile,Like New,284.39
+Apple iPhone SE (2nd Generation),64,T-Mobile,Good,265.32
+Apple iPhone SE (2nd Generation),64,T-Mobile,Fair,261.94
+Apple iPhone SE (2nd Generation),64,T-Mobile,Broken,171.4
+Apple iPhone SE (2nd Generation),64,Sprint,Like New,274.93
+Apple iPhone SE (2nd Generation),64,Sprint,Good,264.51
+Apple iPhone SE (2nd Generation),64,Sprint,Fair,257.22
+Apple iPhone SE (2nd Generation),64,Sprint,Broken,172.99
+Apple iPhone SE (2nd Generation),128,Unlocked,Like New,344.07
+Apple iPhone SE (2nd Generation),128,Unlocked,Good,331.93
+Apple iPhone SE (2nd Generation),128,Unlocked,Fair,329.82
+Apple iPhone SE (2nd Generation),128,Unlocked,Broken,**NOT ENOUGH RESULTS**
+Apple iPhone SE (2nd Generation),128,Verizon,Like New,344.07
+Apple iPhone SE (2nd Generation),128,Verizon,Good,331.93
+Apple iPhone SE (2nd Generation),128,Verizon,Fair,329.82
+Apple iPhone SE (2nd Generation),128,Verizon,Broken,**NOT ENOUGH RESULTS**
+Apple iPhone SE (2nd Generation),128,AT&T,Like New,**NOT ENOUGH RESULTS**
+Apple iPhone SE (2nd Generation),128,AT&T,Good,308.99
+Apple iPhone SE (2nd Generation),128,AT&T,Fair,303.59
+Apple iPhone SE (2nd Generation),128,AT&T,Broken,168.24
+Apple iPhone SE (2nd Generation),128,T-Mobile,Like New,**NOT ENOUGH RESULTS**
+Apple iPhone SE (2nd Generation),128,T-Mobile,Good,315.5
+Apple iPhone SE (2nd Generation),128,T-Mobile,Fair,320.91
+Apple iPhone SE (2nd Generation),128,T-Mobile,Broken,**NOT ENOUGH RESULTS**
+Apple iPhone SE (2nd Generation),128,Sprint,Like New,**NOT ENOUGH RESULTS**
+Apple iPhone SE (2nd Generation),128,Sprint,Good,**NOT ENOUGH RESULTS**
+Apple iPhone SE (2nd Generation),128,Sprint,Fair,**NOT ENOUGH RESULTS**
+Apple iPhone SE (2nd Generation),128,Sprint,Broken,**NOT ENOUGH RESULTS**
+Apple iPhone SE (2nd Generation),256,Unlocked,Like New,404.8
+Apple iPhone SE (2nd Generation),256,Unlocked,Good,384.75
+Apple iPhone SE (2nd Generation),256,Unlocked,Fair,384.75
+Apple iPhone SE (2nd Generation),256,Unlocked,Broken,**NOT ENOUGH RESULTS**
+Apple iPhone SE (2nd Generation),256,Verizon,Like New,404.8
+Apple iPhone SE (2nd Generation),256,Verizon,Good,384.75
+Apple iPhone SE (2nd Generation),256,Verizon,Fair,386.77
+Apple iPhone SE (2nd Generation),256,Verizon,Broken,**NOT ENOUGH RESULTS**
+Apple iPhone SE (2nd Generation),256,AT&T,Like New,363.46
+Apple iPhone SE (2nd Generation),256,AT&T,Good,376.47
+Apple iPhone SE (2nd Generation),256,AT&T,Fair,376.47
+Apple iPhone SE (2nd Generation),256,AT&T,Broken,**NOT ENOUGH RESULTS**
+Apple iPhone SE (2nd Generation),256,T-Mobile,Like New,**NOT ENOUGH RESULTS**
+Apple iPhone SE (2nd Generation),256,T-Mobile,Good,**NOT ENOUGH RESULTS**
+Apple iPhone SE (2nd Generation),256,T-Mobile,Fair,**NOT ENOUGH RESULTS**
+Apple iPhone SE (2nd Generation),256,T-Mobile,Broken,**NOT ENOUGH RESULTS**
+Apple iPhone SE (2nd Generation),256,Sprint,Like New,**NOT ENOUGH RESULTS**
+Apple iPhone SE (2nd Generation),256,Sprint,Good,**NOT ENOUGH RESULTS**
+Apple iPhone SE (2nd Generation),256,Sprint,Fair,**NOT ENOUGH RESULTS**
+Apple iPhone SE (2nd Generation),256,Sprint,Broken,**NOT ENOUGH RESULTS**
+Apple iPhone X,64,Unlocked,Like New,336.47
+Apple iPhone X,64,Unlocked,Good,303.03
+Apple iPhone X,64,Unlocked,Fair,298.98
+Apple iPhone X,64,Unlocked,Broken,208.54
+Apple iPhone X,64,Verizon,Like New,336.47
+Apple iPhone X,64,Verizon,Good,303.98
+Apple iPhone X,64,Verizon,Fair,297.99
+Apple iPhone X,64,Verizon,Broken,208.81
+Apple iPhone X,64,AT&T,Like New,332.8
+Apple iPhone X,64,AT&T,Good,298.46
+Apple iPhone X,64,AT&T,Fair,293.5
+Apple iPhone X,64,AT&T,Broken,195.97
+Apple iPhone X,64,T-Mobile,Like New,334.78
+Apple iPhone X,64,T-Mobile,Good,304.24
+Apple iPhone X,64,T-Mobile,Fair,299.35
+Apple iPhone X,64,T-Mobile,Broken,199.31
+Apple iPhone X,64,Sprint,Like New,328.06
+Apple iPhone X,64,Sprint,Good,302.51
+Apple iPhone X,64,Sprint,Fair,301.14
+Apple iPhone X,64,Sprint,Broken,213.86
+Apple iPhone X,256,Unlocked,Like New,370.55
+Apple iPhone X,256,Unlocked,Good,334.23
+Apple iPhone X,256,Unlocked,Fair,330.39
+Apple iPhone X,256,Unlocked,Broken,242.76
+Apple iPhone X,256,Verizon,Like New,370.55
+Apple iPhone X,256,Verizon,Good,334.23
+Apple iPhone X,256,Verizon,Fair,322.38
+Apple iPhone X,256,Verizon,Broken,243.1
+Apple iPhone X,256,AT&T,Like New,369.95
+Apple iPhone X,256,AT&T,Good,322.22
+Apple iPhone X,256,AT&T,Fair,317.58
+Apple iPhone X,256,AT&T,Broken,229.01
+Apple iPhone X,256,T-Mobile,Like New,376.23
+Apple iPhone X,256,T-Mobile,Good,338.38
+Apple iPhone X,256,T-Mobile,Fair,333.92
+Apple iPhone X,256,T-Mobile,Broken,240.37
+Apple iPhone X,256,Sprint,Like New,370.46
+Apple iPhone X,256,Sprint,Good,346.04
+Apple iPhone X,256,Sprint,Fair,341.89
+Apple iPhone X,256,Sprint,Broken,229.98
+Apple iPhone XR,64,Unlocked,Like New,337.82
+Apple iPhone XR,64,Unlocked,Good,312.98
+Apple iPhone XR,64,Unlocked,Fair,307.37
+Apple iPhone XR,64,Unlocked,Broken,206.25
+Apple iPhone XR,64,Verizon,Like New,337.43
+Apple iPhone XR,64,Verizon,Good,314.66
+Apple iPhone XR,64,Verizon,Fair,307.57
+Apple iPhone XR,64,Verizon,Broken,206.25
+Apple iPhone XR,64,AT&T,Like New,316.71
+Apple iPhone XR,64,AT&T,Good,294.48
+Apple iPhone XR,64,AT&T,Fair,286.26
+Apple iPhone XR,64,AT&T,Broken,176.89
+Apple iPhone XR,64,T-Mobile,Like New,315.0
+Apple iPhone XR,64,T-Mobile,Good,299.11
+Apple iPhone XR,64,T-Mobile,Fair,285.82
+Apple iPhone XR,64,T-Mobile,Broken,202.52
+Apple iPhone XR,64,Sprint,Like New,307.07
+Apple iPhone XR,64,Sprint,Good,293.98
+Apple iPhone XR,64,Sprint,Fair,290.38
+Apple iPhone XR,64,Sprint,Broken,205.14
+Apple iPhone XR,128,Unlocked,Like New,374.43
+Apple iPhone XR,128,Unlocked,Good,352.83
+Apple iPhone XR,128,Unlocked,Fair,345.95
+Apple iPhone XR,128,Unlocked,Broken,249.16
+Apple iPhone XR,128,Verizon,Like New,374.43
+Apple iPhone XR,128,Verizon,Good,352.83
+Apple iPhone XR,128,Verizon,Fair,345.95
+Apple iPhone XR,128,Verizon,Broken,248.74
+Apple iPhone XR,128,AT&T,Like New,344.54
+Apple iPhone XR,128,AT&T,Good,319.43
+Apple iPhone XR,128,AT&T,Fair,306.29
+Apple iPhone XR,128,AT&T,Broken,202.29
+Apple iPhone XR,128,T-Mobile,Like New,335.17
+Apple iPhone XR,128,T-Mobile,Good,338.72
+Apple iPhone XR,128,T-Mobile,Fair,326.87
+Apple iPhone XR,128,T-Mobile,Broken,215.88
+Apple iPhone XR,128,Sprint,Like New,**NOT ENOUGH RESULTS**
+Apple iPhone XR,128,Sprint,Good,262.24
+Apple iPhone XR,128,Sprint,Fair,264.32
+Apple iPhone XR,128,Sprint,Broken,231.27
+Apple iPhone XR,256,Unlocked,Like New,392.63
+Apple iPhone XR,256,Unlocked,Good,390.77
+Apple iPhone XR,256,Unlocked,Fair,385.8
+Apple iPhone XR,256,Unlocked,Broken,265.37
+Apple iPhone XR,256,Verizon,Like New,392.63
+Apple iPhone XR,256,Verizon,Good,390.77
+Apple iPhone XR,256,Verizon,Fair,385.8
+Apple iPhone XR,256,Verizon,Broken,265.37
+Apple iPhone XR,256,AT&T,Like New,368.96
+Apple iPhone XR,256,AT&T,Good,345.56
+Apple iPhone XR,256,AT&T,Fair,341.86
+Apple iPhone XR,256,AT&T,Broken,223.21
+Apple iPhone XR,256,T-Mobile,Like New,**NOT ENOUGH RESULTS**
+Apple iPhone XR,256,T-Mobile,Good,371.6
+Apple iPhone XR,256,T-Mobile,Fair,371.6
+Apple iPhone XR,256,T-Mobile,Broken,**NOT ENOUGH RESULTS**
+Apple iPhone XR,256,Sprint,Like New,**NOT ENOUGH RESULTS**
+Apple iPhone XR,256,Sprint,Good,337.0
+Apple iPhone XR,256,Sprint,Fair,337.0
+Apple iPhone XR,256,Sprint,Broken,**NOT ENOUGH RESULTS**
+Apple iPhone XS,64,Unlocked,Like New,384.57
+Apple iPhone XS,64,Unlocked,Good,349.58
+Apple iPhone XS,64,Unlocked,Fair,344.49
+Apple iPhone XS,64,Unlocked,Broken,250.81
+Apple iPhone XS,64,Verizon,Like New,384.57
+Apple iPhone XS,64,Verizon,Good,349.58
+Apple iPhone XS,64,Verizon,Fair,344.57
+Apple iPhone XS,64,Verizon,Broken,250.81
+Apple iPhone XS,64,AT&T,Like New,355.47
+Apple iPhone XS,64,AT&T,Good,335.01
+Apple iPhone XS,64,AT&T,Fair,327.22
+Apple iPhone XS,64,AT&T,Broken,227.55
+Apple iPhone XS,64,T-Mobile,Like New,348.55
+Apple iPhone XS,64,T-Mobile,Good,340.92
+Apple iPhone XS,64,T-Mobile,Fair,339.22
+Apple iPhone XS,64,T-Mobile,Broken,193.22
+Apple iPhone XS,64,Sprint,Like New,363.17
+Apple iPhone XS,64,Sprint,Good,338.13
+Apple iPhone XS,64,Sprint,Fair,322.36
+Apple iPhone XS,64,Sprint,Broken,205.66
+Apple iPhone XS,256,Unlocked,Like New,427.21
+Apple iPhone XS,256,Unlocked,Good,399.11
+Apple iPhone XS,256,Unlocked,Fair,392.7
+Apple iPhone XS,256,Unlocked,Broken,276.3
+Apple iPhone XS,256,Verizon,Like New,427.21
+Apple iPhone XS,256,Verizon,Good,399.11
+Apple iPhone XS,256,Verizon,Fair,392.7
+Apple iPhone XS,256,Verizon,Broken,277.35
+Apple iPhone XS,256,AT&T,Like New,375.5
+Apple iPhone XS,256,AT&T,Good,383.74
+Apple iPhone XS,256,AT&T,Fair,381.33
+Apple iPhone XS,256,AT&T,Broken,245.84
+Apple iPhone XS,256,T-Mobile,Like New,400.0
+Apple iPhone XS,256,T-Mobile,Good,401.47
+Apple iPhone XS,256,T-Mobile,Fair,401.47
+Apple iPhone XS,256,T-Mobile,Broken,243.53
+Apple iPhone XS,256,Sprint,Like New,400.0
+Apple iPhone XS,256,Sprint,Good,392.43
+Apple iPhone XS,256,Sprint,Fair,392.43
+Apple iPhone XS,256,Sprint,Broken,277.48
+Apple iPhone XS,512,Unlocked,Like New,426.8
+Apple iPhone XS,512,Unlocked,Good,435.59
+Apple iPhone XS,512,Unlocked,Fair,433.74
+Apple iPhone XS,512,Unlocked,Broken,316.53
+Apple iPhone XS,512,Verizon,Like New,426.8
+Apple iPhone XS,512,Verizon,Good,435.59
+Apple iPhone XS,512,Verizon,Fair,433.74
+Apple iPhone XS,512,Verizon,Broken,316.53
+Apple iPhone XS,512,AT&T,Like New,division by zero
+Apple iPhone XS,512,AT&T,Good,432.73
+Apple iPhone XS,512,AT&T,Fair,432.73
+Apple iPhone XS,512,AT&T,Broken,**NOT ENOUGH RESULTS**
+Apple iPhone XS,512,T-Mobile,Like New,**NOT ENOUGH RESULTS**
+Apple iPhone XS,512,T-Mobile,Good,389.74
+Apple iPhone XS,512,T-Mobile,Fair,389.74
+Apple iPhone XS,512,T-Mobile,Broken,**NOT ENOUGH RESULTS**
+Apple iPhone XS,512,Sprint,Like New,**NOT ENOUGH RESULTS**
+Apple iPhone XS,512,Sprint,Good,405.0
+Apple iPhone XS,512,Sprint,Fair,405.0
+Apple iPhone XS,512,Sprint,Broken,**NOT ENOUGH RESULTS**
+Apple iPhone XS Max,64,Unlocked,Like New,460.49
+Apple iPhone XS Max,64,Unlocked,Good,432.92
+Apple iPhone XS Max,64,Unlocked,Fair,426.27
+Apple iPhone XS Max,64,Unlocked,Broken,286.95
+Apple iPhone XS Max,64,Verizon,Like New,460.27
+Apple iPhone XS Max,64,Verizon,Good,432.92
+Apple iPhone XS Max,64,Verizon,Fair,426.27
+Apple iPhone XS Max,64,Verizon,Broken,287.86
+Apple iPhone XS Max,64,AT&T,Like New,423.83
+Apple iPhone XS Max,64,AT&T,Good,401.76
+Apple iPhone XS Max,64,AT&T,Fair,396.23
+Apple iPhone XS Max,64,AT&T,Broken,270.51
+Apple iPhone XS Max,64,T-Mobile,Like New,415.63
+Apple iPhone XS Max,64,T-Mobile,Good,422.82
+Apple iPhone XS Max,64,T-Mobile,Fair,414.37
+Apple iPhone XS Max,64,T-Mobile,Broken,269.58
+Apple iPhone XS Max,64,Sprint,Like New,419.79
+Apple iPhone XS Max,64,Sprint,Good,408.71
+Apple iPhone XS Max,64,Sprint,Fair,406.53
+Apple iPhone XS Max,64,Sprint,Broken,284.01
+Apple iPhone XS Max,256,Unlocked,Like New,494.09
+Apple iPhone XS Max,256,Unlocked,Good,460.87
+Apple iPhone XS Max,256,Unlocked,Fair,459.04
+Apple iPhone XS Max,256,Unlocked,Broken,336.33
+Apple iPhone XS Max,256,Verizon,Like New,494.97
+Apple iPhone XS Max,256,Verizon,Good,459.85
+Apple iPhone XS Max,256,Verizon,Fair,459.04
+Apple iPhone XS Max,256,Verizon,Broken,336.33
+Apple iPhone XS Max,256,AT&T,Like New,459.79
+Apple iPhone XS Max,256,AT&T,Good,429.75
+Apple iPhone XS Max,256,AT&T,Fair,427.31
+Apple iPhone XS Max,256,AT&T,Broken,304.39
+Apple iPhone XS Max,256,T-Mobile,Like New,488.67
+Apple iPhone XS Max,256,T-Mobile,Good,486.46
+Apple iPhone XS Max,256,T-Mobile,Fair,475.65
+Apple iPhone XS Max,256,T-Mobile,Broken,307.1
+Apple iPhone XS Max,256,Sprint,Like New,486.64
+Apple iPhone XS Max,256,Sprint,Good,469.9
+Apple iPhone XS Max,256,Sprint,Fair,466.22
+Apple iPhone XS Max,256,Sprint,Broken,324.1
+Apple iPhone XS Max,512,Unlocked,Like New,583.99
+Apple iPhone XS Max,512,Unlocked,Good,513.14
+Apple iPhone XS Max,512,Unlocked,Fair,509.99
+Apple iPhone XS Max,512,Unlocked,Broken,380.93
+Apple iPhone XS Max,512,Verizon,Like New,583.99
+Apple iPhone XS Max,512,Verizon,Good,513.2
+Apple iPhone XS Max,512,Verizon,Fair,510.26
+Apple iPhone XS Max,512,Verizon,Broken,382.15
+Apple iPhone XS Max,512,AT&T,Like New,486.79
+Apple iPhone XS Max,512,AT&T,Good,482.81
+Apple iPhone XS Max,512,AT&T,Fair,480.23
+Apple iPhone XS Max,512,AT&T,Broken,350.76
+Apple iPhone XS Max,512,T-Mobile,Like New,**NOT ENOUGH RESULTS**
+Apple iPhone XS Max,512,T-Mobile,Good,495.5
+Apple iPhone XS Max,512,T-Mobile,Fair,471.62
+Apple iPhone XS Max,512,T-Mobile,Broken,**NOT ENOUGH RESULTS**
+Apple iPhone XS Max,512,Sprint,Like New,**NOT ENOUGH RESULTS**
+Apple iPhone XS Max,512,Sprint,Good,454.5
+Apple iPhone XS Max,512,Sprint,Fair,454.5
+Apple iPhone XS Max,512,Sprint,Broken,363.33
+Apple iPhone 11,64,Unlocked,Like New,514.6
+Apple iPhone 11,64,Unlocked,Good,485.47
+Apple iPhone 11,64,Unlocked,Fair,476.75
+Apple iPhone 11,64,Unlocked,Broken,303.77
+Apple iPhone 11,64,Verizon,Like New,514.6
+Apple iPhone 11,64,Verizon,Good,485.47
+Apple iPhone 11,64,Verizon,Fair,476.55
+Apple iPhone 11,64,Verizon,Broken,303.77
+Apple iPhone 11,64,AT&T,Like New,508.59
+Apple iPhone 11,64,AT&T,Good,448.06
+Apple iPhone 11,64,AT&T,Fair,438.28
+Apple iPhone 11,64,AT&T,Broken,320.09
+Apple iPhone 11,64,T-Mobile,Like New,460.89
+Apple iPhone 11,64,T-Mobile,Good,442.63
+Apple iPhone 11,64,T-Mobile,Fair,440.42
+Apple iPhone 11,64,T-Mobile,Broken,335.03
+Apple iPhone 11,64,Sprint,Like New,465.49
+Apple iPhone 11,64,Sprint,Good,433.16
+Apple iPhone 11,64,Sprint,Fair,424.13
+Apple iPhone 11,64,Sprint,Broken,325.52
+Apple iPhone 11,128,Unlocked,Like New,562.39
+Apple iPhone 11,128,Unlocked,Good,553.85
+Apple iPhone 11,128,Unlocked,Fair,551.86
+Apple iPhone 11,128,Unlocked,Broken,327.07
+Apple iPhone 11,128,Verizon,Like New,562.39
+Apple iPhone 11,128,Verizon,Good,553.59
+Apple iPhone 11,128,Verizon,Fair,552.12
+Apple iPhone 11,128,Verizon,Broken,327.07
+Apple iPhone 11,128,AT&T,Like New,518.88
+Apple iPhone 11,128,AT&T,Good,502.13
+Apple iPhone 11,128,AT&T,Fair,478.88
+Apple iPhone 11,128,AT&T,Broken,344.47
+Apple iPhone 11,128,T-Mobile,Like New,536.66
+Apple iPhone 11,128,T-Mobile,Good,506.97
+Apple iPhone 11,128,T-Mobile,Fair,505.4
+Apple iPhone 11,128,T-Mobile,Broken,370.66
+Apple iPhone 11,128,Sprint,Like New,**NOT ENOUGH RESULTS**
+Apple iPhone 11,128,Sprint,Good,480.92
+Apple iPhone 11,128,Sprint,Fair,480.92
+Apple iPhone 11,128,Sprint,Broken,380.95
+Apple iPhone 11,256,Unlocked,Like New,602.85
+Apple iPhone 11,256,Unlocked,Good,584.28
+Apple iPhone 11,256,Unlocked,Fair,583.33
+Apple iPhone 11,256,Unlocked,Broken,357.53
+Apple iPhone 11,256,Verizon,Like New,602.85
+Apple iPhone 11,256,Verizon,Good,585.8
+Apple iPhone 11,256,Verizon,Fair,583.33
+Apple iPhone 11,256,Verizon,Broken,357.53
+Apple iPhone 11,256,AT&T,Like New,550.75
+Apple iPhone 11,256,AT&T,Good,518.65
+Apple iPhone 11,256,AT&T,Fair,518.65
+Apple iPhone 11,256,AT&T,Broken,347.16
+Apple iPhone 11,256,T-Mobile,Like New,527.5
+Apple iPhone 11,256,T-Mobile,Good,551.0
+Apple iPhone 11,256,T-Mobile,Fair,551.0
+Apple iPhone 11,256,T-Mobile,Broken,396.66
+Apple iPhone 11,256,Sprint,Like New,division by zero
+Apple iPhone 11,256,Sprint,Good,616.66
+Apple iPhone 11,256,Sprint,Fair,616.66
+Apple iPhone 11,256,Sprint,Broken,401.98
+Apple iPhone 11 Pro,64,Unlocked,Like New,662.06
+Apple iPhone 11 Pro,64,Unlocked,Good,628.76
+Apple iPhone 11 Pro,64,Unlocked,Fair,626.7
+Apple iPhone 11 Pro,64,Unlocked,Broken,413.32
+Apple iPhone 11 Pro,64,Verizon,Like New,662.06
+Apple iPhone 11 Pro,64,Verizon,Good,628.76
+Apple iPhone 11 Pro,64,Verizon,Fair,625.36
+Apple iPhone 11 Pro,64,Verizon,Broken,413.32
+Apple iPhone 11 Pro,64,AT&T,Like New,606.99
+Apple iPhone 11 Pro,64,AT&T,Good,584.06
+Apple iPhone 11 Pro,64,AT&T,Fair,575.95
+Apple iPhone 11 Pro,64,AT&T,Broken,396.55
+Apple iPhone 11 Pro,64,T-Mobile,Like New,591.0
+Apple iPhone 11 Pro,64,T-Mobile,Good,589.31
+Apple iPhone 11 Pro,64,T-Mobile,Fair,589.3
+Apple iPhone 11 Pro,64,T-Mobile,Broken,399.25
+Apple iPhone 11 Pro,64,Sprint,Like New,608.5
+Apple iPhone 11 Pro,64,Sprint,Good,598.41
+Apple iPhone 11 Pro,64,Sprint,Fair,598.41
+Apple iPhone 11 Pro,64,Sprint,Broken,454.61
+Apple iPhone 11 Pro,256,Unlocked,Like New,740.42
+Apple iPhone 11 Pro,256,Unlocked,Good,728.96
+Apple iPhone 11 Pro,256,Unlocked,Fair,719.51
+Apple iPhone 11 Pro,256,Unlocked,Broken,509.13
+Apple iPhone 11 Pro,256,Verizon,Like New,736.39
+Apple iPhone 11 Pro,256,Verizon,Good,728.96
+Apple iPhone 11 Pro,256,Verizon,Fair,719.51
+Apple iPhone 11 Pro,256,Verizon,Broken,513.36
+Apple iPhone 11 Pro,256,AT&T,Like New,706.78
+Apple iPhone 11 Pro,256,AT&T,Good,679.43
+Apple iPhone 11 Pro,256,AT&T,Fair,677.5
+Apple iPhone 11 Pro,256,AT&T,Broken,419.41
+Apple iPhone 11 Pro,256,T-Mobile,Like New,division by zero
+Apple iPhone 11 Pro,256,T-Mobile,Good,712.74
+Apple iPhone 11 Pro,256,T-Mobile,Fair,709.27
+Apple iPhone 11 Pro,256,T-Mobile,Broken,356.0
+Apple iPhone 11 Pro,256,Sprint,Like New,745.95
+Apple iPhone 11 Pro,256,Sprint,Good,673.56
+Apple iPhone 11 Pro,256,Sprint,Fair,673.56
+Apple iPhone 11 Pro,256,Sprint,Broken,**NOT ENOUGH RESULTS**
+Apple iPhone 11 Pro,512,Unlocked,Like New,784.49
+Apple iPhone 11 Pro,512,Unlocked,Good,744.93
+Apple iPhone 11 Pro,512,Unlocked,Fair,742.32
+Apple iPhone 11 Pro,512,Unlocked,Broken,601.14
+Apple iPhone 11 Pro,512,Verizon,Like New,788.24
+Apple iPhone 11 Pro,512,Verizon,Good,745.17
+Apple iPhone 11 Pro,512,Verizon,Fair,743.25
+Apple iPhone 11 Pro,512,Verizon,Broken,601.14
+Apple iPhone 11 Pro,512,AT&T,Like New,**NOT ENOUGH RESULTS**
+Apple iPhone 11 Pro,512,AT&T,Good,653.49
+Apple iPhone 11 Pro,512,AT&T,Fair,632.06
+Apple iPhone 11 Pro,512,AT&T,Broken,**NOT ENOUGH RESULTS**
+Apple iPhone 11 Pro,512,T-Mobile,Like New,**NOT ENOUGH RESULTS**
+Apple iPhone 11 Pro,512,T-Mobile,Good,division by zero
+Apple iPhone 11 Pro,512,T-Mobile,Fair,division by zero
+Apple iPhone 11 Pro,512,T-Mobile,Broken,**NOT ENOUGH RESULTS**
+Apple iPhone 11 Pro,512,Sprint,Like New,**NOT ENOUGH RESULTS**
+Apple iPhone 11 Pro,512,Sprint,Good,**NOT ENOUGH RESULTS**
+Apple iPhone 11 Pro,512,Sprint,Fair,**NOT ENOUGH RESULTS**
+Apple iPhone 11 Pro,512,Sprint,Broken,**NOT ENOUGH RESULTS**
+Apple iPhone 11 Pro Max,64,Unlocked,Like New,738.51
+Apple iPhone 11 Pro Max,64,Unlocked,Good,707.34
+Apple iPhone 11 Pro Max,64,Unlocked,Fair,693.63
+Apple iPhone 11 Pro Max,64,Unlocked,Broken,469.96
+Apple iPhone 11 Pro Max,64,Verizon,Like New,738.35
+Apple iPhone 11 Pro Max,64,Verizon,Good,707.34
+Apple iPhone 11 Pro Max,64,Verizon,Fair,694.68
+Apple iPhone 11 Pro Max,64,Verizon,Broken,469.96
+Apple iPhone 11 Pro Max,64,AT&T,Like New,642.8
+Apple iPhone 11 Pro Max,64,AT&T,Good,642.12
+Apple iPhone 11 Pro Max,64,AT&T,Fair,634.35
+Apple iPhone 11 Pro Max,64,AT&T,Broken,480.87
+Apple iPhone 11 Pro Max,64,T-Mobile,Like New,675.5
+Apple iPhone 11 Pro Max,64,T-Mobile,Good,662.81
+Apple iPhone 11 Pro Max,64,T-Mobile,Fair,660.64
+Apple iPhone 11 Pro Max,64,T-Mobile,Broken,465.49
+Apple iPhone 11 Pro Max,64,Sprint,Like New,630.0
+Apple iPhone 11 Pro Max,64,Sprint,Good,661.44
+Apple iPhone 11 Pro Max,64,Sprint,Fair,659.92
+Apple iPhone 11 Pro Max,64,Sprint,Broken,515.44
+Apple iPhone 11 Pro Max,256,Unlocked,Like New,828.33
+Apple iPhone 11 Pro Max,256,Unlocked,Good,781.49
+Apple iPhone 11 Pro Max,256,Unlocked,Fair,775.02
+Apple iPhone 11 Pro Max,256,Unlocked,Broken,541.55
+Apple iPhone 11 Pro Max,256,Verizon,Like New,827.28
+Apple iPhone 11 Pro Max,256,Verizon,Good,774.76
+Apple iPhone 11 Pro Max,256,Verizon,Fair,771.44
+Apple iPhone 11 Pro Max,256,Verizon,Broken,541.55
+Apple iPhone 11 Pro Max,256,AT&T,Like New,792.51
+Apple iPhone 11 Pro Max,256,AT&T,Good,726.71
+Apple iPhone 11 Pro Max,256,AT&T,Fair,723.28
+Apple iPhone 11 Pro Max,256,AT&T,Broken,575.82
+Apple iPhone 11 Pro Max,256,T-Mobile,Like New,889.0
+Apple iPhone 11 Pro Max,256,T-Mobile,Good,784.88
+Apple iPhone 11 Pro Max,256,T-Mobile,Fair,782.53
+Apple iPhone 11 Pro Max,256,T-Mobile,Broken,558.23
+Apple iPhone 11 Pro Max,256,Sprint,Like New,954.0
+Apple iPhone 11 Pro Max,256,Sprint,Good,798.74
+Apple iPhone 11 Pro Max,256,Sprint,Fair,794.62
+Apple iPhone 11 Pro Max,256,Sprint,Broken,652.71
+Apple iPhone 11 Pro Max,512,Unlocked,Like New,877.15
+Apple iPhone 11 Pro Max,512,Unlocked,Good,860.38
+Apple iPhone 11 Pro Max,512,Unlocked,Fair,859.02
+Apple iPhone 11 Pro Max,512,Unlocked,Broken,600.32
+Apple iPhone 11 Pro Max,512,Verizon,Like New,877.15
+Apple iPhone 11 Pro Max,512,Verizon,Good,860.76
+Apple iPhone 11 Pro Max,512,Verizon,Fair,859.39
+Apple iPhone 11 Pro Max,512,Verizon,Broken,600.32
+Apple iPhone 11 Pro Max,512,AT&T,Like New,869.84
+Apple iPhone 11 Pro Max,512,AT&T,Good,788.86
+Apple iPhone 11 Pro Max,512,AT&T,Fair,787.6
+Apple iPhone 11 Pro Max,512,AT&T,Broken,627.5
+Apple iPhone 11 Pro Max,512,T-Mobile,Like New,**NOT ENOUGH RESULTS**
+Apple iPhone 11 Pro Max,512,T-Mobile,Good,798.6
+Apple iPhone 11 Pro Max,512,T-Mobile,Fair,798.6
+Apple iPhone 11 Pro Max,512,T-Mobile,Broken,**NOT ENOUGH RESULTS**
+Apple iPhone 11 Pro Max,512,Sprint,Like New,**NOT ENOUGH RESULTS**
+Apple iPhone 11 Pro Max,512,Sprint,Good,687.39
+Apple iPhone 11 Pro Max,512,Sprint,Fair,687.39
+Apple iPhone 11 Pro Max,512,Sprint,Broken,**NOT ENOUGH RESULTS**
+Apple iPhone 12,64,Unlocked,Like New,769.15
+Apple iPhone 12,64,Unlocked,Good,761.48
+Apple iPhone 12,64,Unlocked,Fair,757.58
+Apple iPhone 12,64,Unlocked,Broken,639.49
+Apple iPhone 12,64,Verizon,Like New,769.15
+Apple iPhone 12,64,Verizon,Good,761.48
+Apple iPhone 12,64,Verizon,Fair,758.3
+Apple iPhone 12,64,Verizon,Broken,639.49
+Apple iPhone 12,64,AT&T,Like New,657.58
+Apple iPhone 12,64,AT&T,Good,659.85
+Apple iPhone 12,64,AT&T,Fair,650.45
+Apple iPhone 12,64,AT&T,Broken,589.04
+Apple iPhone 12,64,T-Mobile,Like New,**NOT ENOUGH RESULTS**
+Apple iPhone 12,64,T-Mobile,Good,652.51
+Apple iPhone 12,64,T-Mobile,Fair,636.31
+Apple iPhone 12,64,T-Mobile,Broken,569.48
+Apple iPhone 12,64,Sprint,Like New,**NOT ENOUGH RESULTS**
+Apple iPhone 12,64,Sprint,Good,**NOT ENOUGH RESULTS**
+Apple iPhone 12,64,Sprint,Fair,**NOT ENOUGH RESULTS**
+Apple iPhone 12,64,Sprint,Broken,548.03
+Apple iPhone 12,128,Unlocked,Like New,775.0
+Apple iPhone 12,128,Unlocked,Good,813.31
+Apple iPhone 12,128,Unlocked,Fair,811.18
+Apple iPhone 12,128,Unlocked,Broken,744.98
+Apple iPhone 12,128,Verizon,Like New,775.0
+Apple iPhone 12,128,Verizon,Good,813.09
+Apple iPhone 12,128,Verizon,Fair,810.99
+Apple iPhone 12,128,Verizon,Broken,744.98
+Apple iPhone 12,128,AT&T,Like New,**NOT ENOUGH RESULTS**
+Apple iPhone 12,128,AT&T,Good,724.63
+Apple iPhone 12,128,AT&T,Fair,724.63
+Apple iPhone 12,128,AT&T,Broken,686.29
+Apple iPhone 12,128,T-Mobile,Like New,**NOT ENOUGH RESULTS**
+Apple iPhone 12,128,T-Mobile,Good,720.78
+Apple iPhone 12,128,T-Mobile,Fair,720.78
+Apple iPhone 12,128,T-Mobile,Broken,642.7
+Apple iPhone 12,128,Sprint,Like New,**NOT ENOUGH RESULTS**
+Apple iPhone 12,128,Sprint,Good,**NOT ENOUGH RESULTS**
+Apple iPhone 12,128,Sprint,Fair,**NOT ENOUGH RESULTS**
+Apple iPhone 12,128,Sprint,Broken,**NOT ENOUGH RESULTS**
+Apple iPhone 12,256,Unlocked,Like New,**NOT ENOUGH RESULTS**
+Apple iPhone 12,256,Unlocked,Good,855.26
+Apple iPhone 12,256,Unlocked,Fair,854.91
+Apple iPhone 12,256,Unlocked,Broken,593.99
+Apple iPhone 12,256,Verizon,Like New,**NOT ENOUGH RESULTS**
+Apple iPhone 12,256,Verizon,Good,855.26
+Apple iPhone 12,256,Verizon,Fair,854.91
+Apple iPhone 12,256,Verizon,Broken,593.99
+Apple iPhone 12,256,AT&T,Like New,**NOT ENOUGH RESULTS**
+Apple iPhone 12,256,AT&T,Good,758.0
+Apple iPhone 12,256,AT&T,Fair,750.4
+Apple iPhone 12,256,AT&T,Broken,**NOT ENOUGH RESULTS**
+Apple iPhone 12,256,T-Mobile,Like New,**NOT ENOUGH RESULTS**
+Apple iPhone 12,256,T-Mobile,Good,**NOT ENOUGH RESULTS**
+Apple iPhone 12,256,T-Mobile,Fair,**NOT ENOUGH RESULTS**
+Apple iPhone 12,256,T-Mobile,Broken,**NOT ENOUGH RESULTS**
+Apple iPhone 12,256,Sprint,Like New,**NOT ENOUGH RESULTS**
+Apple iPhone 12,256,Sprint,Good,**NOT ENOUGH RESULTS**
+Apple iPhone 12,256,Sprint,Fair,**NOT ENOUGH RESULTS**
+Apple iPhone 12,256,Sprint,Broken,**NOT ENOUGH RESULTS**
+Apple iPhone 12 mini,64,Unlocked,Like New,638.22
+Apple iPhone 12 mini,64,Unlocked,Good,631.41
+Apple iPhone 12 mini,64,Unlocked,Fair,631.99
+Apple iPhone 12 mini,64,Unlocked,Broken,546.11
+Apple iPhone 12 mini,64,Verizon,Like New,638.22
+Apple iPhone 12 mini,64,Verizon,Good,631.41
+Apple iPhone 12 mini,64,Verizon,Fair,631.99
+Apple iPhone 12 mini,64,Verizon,Broken,546.11
+Apple iPhone 12 mini,64,AT&T,Like New,**NOT ENOUGH RESULTS**
+Apple iPhone 12 mini,64,AT&T,Good,576.21
+Apple iPhone 12 mini,64,AT&T,Fair,576.21
+Apple iPhone 12 mini,64,AT&T,Broken,529.59
+Apple iPhone 12 mini,64,T-Mobile,Like New,**NOT ENOUGH RESULTS**
+Apple iPhone 12 mini,64,T-Mobile,Good,612.46
+Apple iPhone 12 mini,64,T-Mobile,Fair,612.46
+Apple iPhone 12 mini,64,T-Mobile,Broken,551.04
+Apple iPhone 12 mini,64,Sprint,Like New,**NOT ENOUGH RESULTS**
+Apple iPhone 12 mini,64,Sprint,Good,**NOT ENOUGH RESULTS**
+Apple iPhone 12 mini,64,Sprint,Fair,**NOT ENOUGH RESULTS**
+Apple iPhone 12 mini,64,Sprint,Broken,**NOT ENOUGH RESULTS**
+Apple iPhone 12 mini,128,Unlocked,Like New,672.48
+Apple iPhone 12 mini,128,Unlocked,Good,685.29
+Apple iPhone 12 mini,128,Unlocked,Fair,685.29
+Apple iPhone 12 mini,128,Unlocked,Broken,**NOT ENOUGH RESULTS**
+Apple iPhone 12 mini,128,Verizon,Like New,672.48
+Apple iPhone 12 mini,128,Verizon,Good,685.29
+Apple iPhone 12 mini,128,Verizon,Fair,685.29
+Apple iPhone 12 mini,128,Verizon,Broken,**NOT ENOUGH RESULTS**
+Apple iPhone 12 mini,128,AT&T,Like New,**NOT ENOUGH RESULTS**
+Apple iPhone 12 mini,128,AT&T,Good,629.99
+Apple iPhone 12 mini,128,AT&T,Fair,629.99
+Apple iPhone 12 mini,128,AT&T,Broken,586.24
+Apple iPhone 12 mini,128,T-Mobile,Like New,**NOT ENOUGH RESULTS**
+Apple iPhone 12 mini,128,T-Mobile,Good,682.25
+Apple iPhone 12 mini,128,T-Mobile,Fair,**NOT ENOUGH RESULTS**
+Apple iPhone 12 mini,128,T-Mobile,Broken,**NOT ENOUGH RESULTS**
+Apple iPhone 12 mini,128,Sprint,Like New,**NOT ENOUGH RESULTS**
+Apple iPhone 12 mini,128,Sprint,Good,**NOT ENOUGH RESULTS**
+Apple iPhone 12 mini,128,Sprint,Fair,**NOT ENOUGH RESULTS**
+Apple iPhone 12 mini,128,Sprint,Broken,**NOT ENOUGH RESULTS**
+Apple iPhone 12 mini,256,Unlocked,Like New,**NOT ENOUGH RESULTS**
+Apple iPhone 12 mini,256,Unlocked,Good,741.55
+Apple iPhone 12 mini,256,Unlocked,Fair,741.55
+Apple iPhone 12 mini,256,Unlocked,Broken,**NOT ENOUGH RESULTS**
+Apple iPhone 12 mini,256,Verizon,Like New,**NOT ENOUGH RESULTS**
+Apple iPhone 12 mini,256,Verizon,Good,741.55
+Apple iPhone 12 mini,256,Verizon,Fair,741.55
+Apple iPhone 12 mini,256,Verizon,Broken,**NOT ENOUGH RESULTS**
+Apple iPhone 12 mini,256,AT&T,Like New,**NOT ENOUGH RESULTS**
+Apple iPhone 12 mini,256,AT&T,Good,**NOT ENOUGH RESULTS**
+Apple iPhone 12 mini,256,AT&T,Fair,**NOT ENOUGH RESULTS**
+Apple iPhone 12 mini,256,AT&T,Broken,**NOT ENOUGH RESULTS**
+Apple iPhone 12 mini,256,T-Mobile,Like New,**NOT ENOUGH RESULTS**
+Apple iPhone 12 mini,256,T-Mobile,Good,**NOT ENOUGH RESULTS**
+Apple iPhone 12 mini,256,T-Mobile,Fair,**NOT ENOUGH RESULTS**
+Apple iPhone 12 mini,256,T-Mobile,Broken,**NOT ENOUGH RESULTS**
+Apple iPhone 12 mini,256,Sprint,Like New,**NOT ENOUGH RESULTS**
+Apple iPhone 12 mini,256,Sprint,Good,**NOT ENOUGH RESULTS**
+Apple iPhone 12 mini,256,Sprint,Fair,**NOT ENOUGH RESULTS**
+Apple iPhone 12 mini,256,Sprint,Broken,**NOT ENOUGH RESULTS**
+Apple iPhone 12 Pro,128,Unlocked,Like New,951.99
+Apple iPhone 12 Pro,128,Unlocked,Good,982.75
+Apple iPhone 12 Pro,128,Unlocked,Fair,982.08
+Apple iPhone 12 Pro,128,Unlocked,Broken,753.43
+Apple iPhone 12 Pro,128,Verizon,Like New,951.99
+Apple iPhone 12 Pro,128,Verizon,Good,982.08
+Apple iPhone 12 Pro,128,Verizon,Fair,982.08
+Apple iPhone 12 Pro,128,Verizon,Broken,753.43
+Apple iPhone 12 Pro,128,AT&T,Like New,920.5
+Apple iPhone 12 Pro,128,AT&T,Good,905.39
+Apple iPhone 12 Pro,128,AT&T,Fair,905.39
+Apple iPhone 12 Pro,128,AT&T,Broken,750.58
+Apple iPhone 12 Pro,128,T-Mobile,Like New,**NOT ENOUGH RESULTS**
+Apple iPhone 12 Pro,128,T-Mobile,Good,871.83
+Apple iPhone 12 Pro,128,T-Mobile,Fair,867.84
+Apple iPhone 12 Pro,128,T-Mobile,Broken,828.53
+Apple iPhone 12 Pro,128,Sprint,Like New,**NOT ENOUGH RESULTS**
+Apple iPhone 12 Pro,128,Sprint,Good,**NOT ENOUGH RESULTS**
+Apple iPhone 12 Pro,128,Sprint,Fair,**NOT ENOUGH RESULTS**
+Apple iPhone 12 Pro,128,Sprint,Broken,724.0
+Apple iPhone 12 Pro,256,Unlocked,Like New,**NOT ENOUGH RESULTS**
+Apple iPhone 12 Pro,256,Unlocked,Good,1024.86
+Apple iPhone 12 Pro,256,Unlocked,Fair,989.09
+Apple iPhone 12 Pro,256,Unlocked,Broken,**NOT ENOUGH RESULTS**
+Apple iPhone 12 Pro,256,Verizon,Like New,**NOT ENOUGH RESULTS**
+Apple iPhone 12 Pro,256,Verizon,Good,1024.86
+Apple iPhone 12 Pro,256,Verizon,Fair,1024.86
+Apple iPhone 12 Pro,256,Verizon,Broken,**NOT ENOUGH RESULTS**
+Apple iPhone 12 Pro,256,AT&T,Like New,1005.66
+Apple iPhone 12 Pro,256,AT&T,Good,1014.55
+Apple iPhone 12 Pro,256,AT&T,Fair,1014.55
+Apple iPhone 12 Pro,256,AT&T,Broken,division by zero
+Apple iPhone 12 Pro,256,T-Mobile,Like New,**NOT ENOUGH RESULTS**
+Apple iPhone 12 Pro,256,T-Mobile,Good,**NOT ENOUGH RESULTS**
+Apple iPhone 12 Pro,256,T-Mobile,Fair,**NOT ENOUGH RESULTS**
+Apple iPhone 12 Pro,256,T-Mobile,Broken,**NOT ENOUGH RESULTS**
+Apple iPhone 12 Pro,256,Sprint,Like New,**NOT ENOUGH RESULTS**
+Apple iPhone 12 Pro,256,Sprint,Good,**NOT ENOUGH RESULTS**
+Apple iPhone 12 Pro,256,Sprint,Fair,**NOT ENOUGH RESULTS**
+Apple iPhone 12 Pro,256,Sprint,Broken,**NOT ENOUGH RESULTS**
+Apple iPhone 12 Pro,512,Unlocked,Like New,**NOT ENOUGH RESULTS**
+Apple iPhone 12 Pro,512,Unlocked,Good,1127.18
+Apple iPhone 12 Pro,512,Unlocked,Fair,1127.18
+Apple iPhone 12 Pro,512,Unlocked,Broken,**NOT ENOUGH RESULTS**
+Apple iPhone 12 Pro,512,Verizon,Like New,**NOT ENOUGH RESULTS**
+Apple iPhone 12 Pro,512,Verizon,Good,1127.18
+Apple iPhone 12 Pro,512,Verizon,Fair,1127.18
+Apple iPhone 12 Pro,512,Verizon,Broken,**NOT ENOUGH RESULTS**
+Apple iPhone 12 Pro,512,AT&T,Like New,**NOT ENOUGH RESULTS**
+Apple iPhone 12 Pro,512,AT&T,Good,987.49
+Apple iPhone 12 Pro,512,AT&T,Fair,987.49
+Apple iPhone 12 Pro,512,AT&T,Broken,**NOT ENOUGH RESULTS**
+Apple iPhone 12 Pro,512,T-Mobile,Like New,**NOT ENOUGH RESULTS**
+Apple iPhone 12 Pro,512,T-Mobile,Good,**NOT ENOUGH RESULTS**
+Apple iPhone 12 Pro,512,T-Mobile,Fair,**NOT ENOUGH RESULTS**
+Apple iPhone 12 Pro,512,T-Mobile,Broken,**NOT ENOUGH RESULTS**
+Apple iPhone 12 Pro,512,Sprint,Like New,**NOT ENOUGH RESULTS**
+Apple iPhone 12 Pro,512,Sprint,Good,**NOT ENOUGH RESULTS**
+Apple iPhone 12 Pro,512,Sprint,Fair,**NOT ENOUGH RESULTS**
+Apple iPhone 12 Pro,512,Sprint,Broken,**NOT ENOUGH RESULTS**
+Apple iPhone 12 Pro Max,128,Unlocked,Like New,1045.72
+Apple iPhone 12 Pro Max,128,Unlocked,Good,1054.24
+Apple iPhone 12 Pro Max,128,Unlocked,Fair,1053.15
+Apple iPhone 12 Pro Max,128,Unlocked,Broken,846.98
+Apple iPhone 12 Pro Max,128,Verizon,Like New,1045.72
+Apple iPhone 12 Pro Max,128,Verizon,Good,1054.24
+Apple iPhone 12 Pro Max,128,Verizon,Fair,1053.15
+Apple iPhone 12 Pro Max,128,Verizon,Broken,846.98
+Apple iPhone 12 Pro Max,128,AT&T,Like New,**NOT ENOUGH RESULTS**
+Apple iPhone 12 Pro Max,128,AT&T,Good,947.35
+Apple iPhone 12 Pro Max,128,AT&T,Fair,939.85
+Apple iPhone 12 Pro Max,128,AT&T,Broken,900.88
+Apple iPhone 12 Pro Max,128,T-Mobile,Like New,**NOT ENOUGH RESULTS**
+Apple iPhone 12 Pro Max,128,T-Mobile,Good,990.29
+Apple iPhone 12 Pro Max,128,T-Mobile,Fair,990.29
+Apple iPhone 12 Pro Max,128,T-Mobile,Broken,900.15
+Apple iPhone 12 Pro Max,128,Sprint,Like New,**NOT ENOUGH RESULTS**
+Apple iPhone 12 Pro Max,128,Sprint,Good,**NOT ENOUGH RESULTS**
+Apple iPhone 12 Pro Max,128,Sprint,Fair,**NOT ENOUGH RESULTS**
+Apple iPhone 12 Pro Max,128,Sprint,Broken,924.99
+Apple iPhone 12 Pro Max,256,Unlocked,Like New,1015.0
+Apple iPhone 12 Pro Max,256,Unlocked,Good,1177.26
+Apple iPhone 12 Pro Max,256,Unlocked,Fair,1147.57
+Apple iPhone 12 Pro Max,256,Unlocked,Broken,1095.79
+Apple iPhone 12 Pro Max,256,Verizon,Like New,1015.0
+Apple iPhone 12 Pro Max,256,Verizon,Good,1177.26
+Apple iPhone 12 Pro Max,256,Verizon,Fair,1147.57
+Apple iPhone 12 Pro Max,256,Verizon,Broken,1095.79
+Apple iPhone 12 Pro Max,256,AT&T,Like New,**NOT ENOUGH RESULTS**
+Apple iPhone 12 Pro Max,256,AT&T,Good,1046.37
+Apple iPhone 12 Pro Max,256,AT&T,Fair,1046.37
+Apple iPhone 12 Pro Max,256,AT&T,Broken,1021.69
+Apple iPhone 12 Pro Max,256,T-Mobile,Like New,**NOT ENOUGH RESULTS**
+Apple iPhone 12 Pro Max,256,T-Mobile,Good,1045.79
+Apple iPhone 12 Pro Max,256,T-Mobile,Fair,1045.79
+Apple iPhone 12 Pro Max,256,T-Mobile,Broken,1035.99
+Apple iPhone 12 Pro Max,256,Sprint,Like New,**NOT ENOUGH RESULTS**
+Apple iPhone 12 Pro Max,256,Sprint,Good,**NOT ENOUGH RESULTS**
+Apple iPhone 12 Pro Max,256,Sprint,Fair,**NOT ENOUGH RESULTS**
+Apple iPhone 12 Pro Max,256,Sprint,Broken,**NOT ENOUGH RESULTS**
+Apple iPhone 12 Pro Max,512,Unlocked,Like New,1257.5
+Apple iPhone 12 Pro Max,512,Unlocked,Good,1234.21
+Apple iPhone 12 Pro Max,512,Unlocked,Fair,1272.88
+Apple iPhone 12 Pro Max,512,Unlocked,Broken,829.75
+Apple iPhone 12 Pro Max,512,Verizon,Like New,1257.5
+Apple iPhone 12 Pro Max,512,Verizon,Good,1234.21
+Apple iPhone 12 Pro Max,512,Verizon,Fair,1272.88
+Apple iPhone 12 Pro Max,512,Verizon,Broken,829.75
+Apple iPhone 12 Pro Max,512,AT&T,Like New,**NOT ENOUGH RESULTS**
+Apple iPhone 12 Pro Max,512,AT&T,Good,984.25
+Apple iPhone 12 Pro Max,512,AT&T,Fair,984.25
+Apple iPhone 12 Pro Max,512,AT&T,Broken,division by zero
+Apple iPhone 12 Pro Max,512,T-Mobile,Like New,**NOT ENOUGH RESULTS**
+Apple iPhone 12 Pro Max,512,T-Mobile,Good,**NOT ENOUGH RESULTS**
+Apple iPhone 12 Pro Max,512,T-Mobile,Fair,**NOT ENOUGH RESULTS**
+Apple iPhone 12 Pro Max,512,T-Mobile,Broken,**NOT ENOUGH RESULTS**
+Apple iPhone 12 Pro Max,512,Sprint,Like New,**NOT ENOUGH RESULTS**
+Apple iPhone 12 Pro Max,512,Sprint,Good,**NOT ENOUGH RESULTS**
+Apple iPhone 12 Pro Max,512,Sprint,Fair,**NOT ENOUGH RESULTS**
+Apple iPhone 12 Pro Max,512,Sprint,Broken,**NOT ENOUGH RESULTS**
